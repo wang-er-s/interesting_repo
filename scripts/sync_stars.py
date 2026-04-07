@@ -335,6 +335,7 @@ def build_processed_entry(
         )
     if ai_result:
         category = custom_category or existing_category or ai_result["category"]
+        category = category.replace(" ", "")
         summary = str(custom_item.get("notes", "")).strip() or ai_result["summary"] or summary
     elif ai_config and not existing_summary:
         log(f"AI 生成失败，跳过写入 processed: {repo['full_name']}")
