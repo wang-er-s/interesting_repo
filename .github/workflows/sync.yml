@@ -1,0 +1,41 @@
+name: Sync GitHub repos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip openai
+
+      - name: Run sync script
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+        run: python scripts/sync_stars.py
+
+      - name: Commit changes
+        run: |
+          git status --short
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/processed.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: sync github repos"
+          git push

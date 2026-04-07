@@ -1,0 +1,3762 @@
+[
+  {
+    "full_name": "15172658790/Blog",
+    "url": "https://github.com/15172658790/Blog",
+    "source": "starred",
+    "category": "教育资源",
+    "summary": "中国科大计算机学院课程资料与试题资源汇总",
+    "tags": [
+      "课程资源",
+      "中国科学技术大学",
+      "计算机学院",
+      "学习资料",
+      "考试资料"
+    ],
+    "notes": "",
+    "description": "中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "topics": [],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "1Panel-dev/MaxKB",
+    "url": "https://github.com/1Panel-dev/MaxKB",
+    "source": "starred",
+    "category": "AI平台",
+    "summary": "开源企业级智能体与RAG知识库平台",
+    "tags": [
+      "智能体",
+      "RAG",
+      "知识库",
+      "LLM",
+      "LangChain"
+    ],
+    "notes": "",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "chatbot",
+      "deepseek-r1",
+      "knowledgebase",
+      "langchain",
+      "llama3",
+      "llm",
+      "maxkb",
+      "mcp-server",
+      "ollama",
+      "pgvector",
+      "qwen3",
+      "rag"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "source": "starred",
+    "category": "资源收集",
+    "summary": "分享 GitHub 上有趣且适合入门的开源项目月刊",
+    "tags": [
+      "awesome",
+      "github",
+      "开源项目",
+      "项目推荐",
+      "Python"
+    ],
+    "notes": "",
+    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "topics": [
+      "awesome",
+      "github",
+      "hellogithub",
+      "python"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "AIDotNet/OpenDeepWiki",
+    "url": "https://github.com/AIDotNet/OpenDeepWiki",
+    "source": "starred",
+    "category": "知识库",
+    "summary": "开源 AI 代码知识库与协作管理平台",
+    "tags": [
+      "chatgpt",
+      "deepwiki",
+      "docs",
+      "fine-tuning",
+      "MCP"
+    ],
+    "notes": "",
+    "description": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.",
+    "topics": [
+      "chatgpt",
+      "deepwiki",
+      "docs",
+      "fine-tuning"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "starred",
+    "category": "AI图像生成",
+    "summary": "基于 Gradio 的 Stable Diffusion 图像生成网页界面",
+    "tags": [
+      "stable-diffusion",
+      "图像生成",
+      "Gradio",
+      "PyTorch",
+      "WebUI"
+    ],
+    "notes": "",
+    "description": "Stable Diffusion web UI",
+    "topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "AlistGo/alist",
+    "url": "https://github.com/AlistGo/alist",
+    "source": "starred",
+    "category": "文件管理",
+    "summary": "支持多存储的文件列表与WebDAV程序",
+    "tags": [
+      "golang",
+      "gin",
+      "webdav",
+      "file-server",
+      "onedrive"
+    ],
+    "notes": "",
+    "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+    "topics": [
+      "file-server",
+      "gin",
+      "golang",
+      "onedrive",
+      "solidjs",
+      "webdav"
+    ],
+    "language": "Go",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "source": "starred",
+    "category": "美食",
+    "summary": "面向程序员的中文家庭做饭与菜谱指南",
+    "tags": [
+      "菜谱",
+      "烹饪",
+      "中文",
+      "家常菜",
+      "指南"
+    ],
+    "notes": "",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "topics": [
+      "chinese",
+      "cookbook",
+      "cooking",
+      "dishes",
+      "recipes"
+    ],
+    "language": "Dockerfile",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Anxcye/anx-reader",
+    "url": "https://github.com/Anxcye/anx-reader",
+    "source": "starred",
+    "category": "阅读工具",
+    "summary": "支持多格式与AI功能的跨平台电子书阅读器",
+    "tags": [
+      "电子书",
+      "阅读器",
+      "AI",
+      "Flutter",
+      "Dart"
+    ],
+    "notes": "",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
+    "topics": [
+      "dart",
+      "ebook-reader",
+      "flutter"
+    ],
+    "language": "Dart",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Arenukvern/mcp_flutter",
+    "url": "https://github.com/Arenukvern/mcp_flutter",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向 Flutter 与 Dart VM 的动态 MCP 服务器",
+    "tags": [
+      "ai",
+      "dart",
+      "flutter",
+      "mcp",
+      "mcp-server"
+    ],
+    "notes": "",
+    "description": "MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling",
+    "topics": [
+      "ai",
+      "dart",
+      "dynamic-tools",
+      "flutter",
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "Dart",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "AssetRipper/AssetRipper",
+    "url": "https://github.com/AssetRipper/AssetRipper",
+    "source": "starred",
+    "category": "游戏开发工具",
+    "summary": "用于提取和转换 Unity 资源文件的图形工具",
+    "tags": [
+      "C#",
+      "Unity",
+      "资源提取",
+      "反向工程",
+      "反编译"
+    ],
+    "notes": "",
+    "description": "GUI Application to work with engine assets, asset bundles, and serialized files",
+    "topics": [
+      "csharp",
+      "decompiler",
+      "games",
+      "reverse-engineering",
+      "unity",
+      "unity3d"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "AstrBotDevs/AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "source": "starred",
+    "category": "聊天机器人",
+    "summary": "集成多平台与多模型的智能聊天机器人基础设施",
+    "tags": [
+      "ai",
+      "chatbot",
+      "llm",
+      "python",
+      "telegram"
+    ],
+    "notes": "",
+    "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "chatgpt",
+      "discord",
+      "docker",
+      "gemini",
+      "gpt",
+      "llama",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "qq",
+      "qqbot",
+      "telegram"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Besty0728/Unity-Skills",
+    "url": "https://github.com/Besty0728/Unity-Skills",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向Unity的AI自动化技能与编辑器控制工具",
+    "tags": [
+      "Unity",
+      "AI",
+      "自动化",
+      "Unity3D",
+      "ChatGPT"
+    ],
+    "notes": "",
+    "description": "AI automation skills specifically designed for Unity",
+    "topics": [
+      "ai",
+      "antygravity-ai",
+      "chatgpt",
+      "claude",
+      "claudecode",
+      "codex",
+      "gemini-cli",
+      "geminicli",
+      "skill",
+      "unity",
+      "unity3d"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "ChatGPTNextWeb/NextChat",
+    "url": "https://github.com/ChatGPTNextWeb/NextChat",
+    "source": "starred",
+    "category": "AI助手",
+    "summary": "轻量快速的跨平台 AI 聊天助手",
+    "tags": [
+      "chatgpt",
+      "claude",
+      "gemini",
+      "cross-platform",
+      "nextjs"
+    ],
+    "notes": "",
+    "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+    "topics": [
+      "calclaude",
+      "chatgpt",
+      "claude",
+      "cross-platform",
+      "desktop",
+      "fe",
+      "gemini",
+      "gemini-pro",
+      "gemini-server",
+      "gemini-ultra",
+      "gpt-4o",
+      "groq",
+      "nextjs",
+      "ollama",
+      "react",
+      "tauri",
+      "tauri-app",
+      "vercel",
+      "webui"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "CoplayDev/unity-mcp",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "让 AI 助手通过 MCP 直接操控 Unity 编辑器",
+    "tags": [
+      "Unity",
+      "MCP",
+      "LLM",
+      "AI集成",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "topics": [
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "copilot",
+      "cursor",
+      "game-development",
+      "gamedev",
+      "gemini",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openai",
+      "unity",
+      "unity3d",
+      "videogames"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Deepractice/PromptX",
+    "url": "https://github.com/Deepractice/PromptX",
+    "source": "starred",
+    "category": "AI开发工具",
+    "summary": "基于MCP的AI智能体上下文与角色平台",
+    "tags": [
+      "AI智能体",
+      "MCP",
+      "上下文管理",
+      "角色系统",
+      "CLI"
+    ],
+    "notes": "",
+    "description": "PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform",
+    "topics": [],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Devolutions/UniGetUI",
+    "url": "https://github.com/Devolutions/UniGetUI",
+    "source": "starred",
+    "category": "包管理工具",
+    "summary": "Windows 多包管理器的统一图形界面",
+    "tags": [
+      "Windows",
+      "GUI",
+      "包管理器",
+      "WinGet",
+      "Chocolatey"
+    ],
+    "notes": "",
+    "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+    "topics": [
+      "chocolatey",
+      "cli",
+      "npm",
+      "package",
+      "package-manager",
+      "pip",
+      "scoop",
+      "unigetui",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "winget"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Fission-AI/OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向 AI 编码助手的规范驱动开发框架",
+    "tags": [
+      "AI",
+      "规范驱动开发",
+      "CLI",
+      "需求规划",
+      "工程流程"
+    ],
+    "notes": "",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "topics": [
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdd",
+      "sdlc",
+      "spec",
+      "spec-driven-development",
+      "specification"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "source": "starred",
+    "category": "资源导航",
+    "summary": "汇总 GitHub 优秀中文项目的分类排行榜",
+    "tags": [
+      "GitHub",
+      "排行榜",
+      "中文项目",
+      "项目发现",
+      "学习资源"
+    ],
+    "notes": "",
+    "description": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "topics": [],
+    "language": "Java",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Guovin/iptv-api",
+    "url": "https://github.com/Guovin/iptv-api",
+    "source": "starred",
+    "category": "影音工具",
+    "summary": "全自动 IPTV 直播源采集筛选与生成平台",
+    "tags": [
+      "iptv",
+      "m3u",
+      "epg",
+      "直播源",
+      "自动更新"
+    ],
+    "notes": "",
+    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform",
+    "topics": [
+      "auto-update",
+      "awesome",
+      "epg",
+      "iptv",
+      "iptv-api",
+      "iptv-channels",
+      "iptv-free",
+      "iptv-m3u",
+      "iptv-m3u8",
+      "iptv-playlist",
+      "ipv4",
+      "ipv6",
+      "live",
+      "m3u",
+      "m3u8",
+      "playlist",
+      "rtmp",
+      "schedule",
+      "tv",
+      "tvbox"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "source": "starred",
+    "category": "AI教育",
+    "summary": "面向个性化学习的多智能体AI导师助手",
+    "tags": [
+      "ai-agents",
+      "ai-tutor",
+      "interactive-learning",
+      "rag",
+      "cli-tool"
+    ],
+    "notes": "",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Hoper-J/AI-Guide-and-Demos-zh_CN",
+    "url": "https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN",
+    "source": "starred",
+    "category": "AI教程",
+    "summary": "中文AI/LLM入门指南，含教程、演示与课程作业",
+    "tags": [
+      "AI",
+      "LLM",
+      "大模型",
+      "教程",
+      "中文"
+    ],
+    "notes": "",
+    "description": "这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "HuLaSpark/HuLa",
+    "url": "https://github.com/HuLaSpark/HuLa",
+    "source": "starred",
+    "category": "即时通讯",
+    "summary": "基于Rust与Vue3的跨平台即时通讯应用",
+    "tags": [
+      "Rust",
+      "Vue3",
+      "Tauri",
+      "跨平台",
+      "桌面应用"
+    ],
+    "notes": "",
+    "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
+    "topics": [
+      "chatbot",
+      "cross-platform",
+      "cross-platform-app",
+      "macos",
+      "mobile",
+      "rust",
+      "tauri",
+      "tsx",
+      "vue3",
+      "webview",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "language": "Vue",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Huanshere/VideoLingo",
+    "url": "https://github.com/Huanshere/VideoLingo",
+    "source": "starred",
+    "category": "视频处理",
+    "summary": "一键式视频字幕切割翻译对齐与AI配音工具",
+    "tags": [
+      "字幕",
+      "视频翻译",
+      "本地化",
+      "配音",
+      "语音克隆"
+    ],
+    "notes": "",
+    "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+    "topics": [
+      "ai-translation",
+      "dubbing",
+      "localization",
+      "video-translation",
+      "voice-cloning"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "InkTimeRecord/TTime",
+    "url": "https://github.com/InkTimeRecord/TTime",
+    "source": "starred",
+    "category": "翻译工具",
+    "summary": "简洁高效的截图划词翻译与OCR桌面软件",
+    "tags": [
+      "OCR",
+      "截图",
+      "翻译",
+      "AI",
+      "桌面应用"
+    ],
+    "notes": "",
+    "description": "🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件",
+    "topics": [
+      "ai",
+      "exe",
+      "macos",
+      "ocr",
+      "pc",
+      "screenshots",
+      "software",
+      "translation",
+      "ttime",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "IvanMurzak/Unity-MCP",
+    "url": "https://github.com/IvanMurzak/Unity-MCP",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "Unity 的 AI 开发助手与 MCP 工具链",
+    "tags": [
+      "unity",
+      "mcp",
+      "ai",
+      "cli",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+    "topics": [
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "cli",
+      "copilot",
+      "cursor",
+      "game-development",
+      "gamedev",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openai",
+      "unity",
+      "windsurf"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "JasonXuDeveloper/Nino",
+    "url": "https://github.com/JasonXuDeveloper/Nino",
+    "source": "starred",
+    "category": "序列化",
+    "summary": "面向 C# 的高性能二进制序列化库",
+    "tags": [
+      "C#",
+      ".NET",
+      "二进制序列化",
+      "Unity",
+      "反序列化"
+    ],
+    "notes": "",
+    "description": "Ultimate high-performance binary serialization library for C#.",
+    "topics": [
+      "c-sharp",
+      "csharp",
+      "deserialization",
+      "dotnet",
+      "godot",
+      "serialization",
+      "unity"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "JefferyHcool/BiliNote",
+    "url": "https://github.com/JefferyHcool/BiliNote",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "基于 AI 的多平台视频内容笔记生成工具",
+    "tags": [
+      "AI",
+      "视频笔记",
+      "Markdown",
+      "FastAPI",
+      "React"
+    ],
+    "notes": "",
+    "description": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "LiShengYang-yiyi/YIUI",
+    "url": "https://github.com/LiShengYang-yiyi/YIUI",
+    "source": "starred",
+    "category": "Unity框架",
+    "summary": "基于数据绑定的Unity UGUI界面框架",
+    "tags": [
+      "unity",
+      "ugui",
+      "uiframework",
+      "et",
+      "etui"
+    ],
+    "notes": "",
+    "description": "Unity3D UGUI Framework, 基于UI数据事件绑定为核心 数据驱动的UGUI框架, ETUI框架, ET框架官方推荐UI框架",
+    "topics": [
+      "et",
+      "etui",
+      "ugui",
+      "uiframework",
+      "unity",
+      "yiui"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "LibreSpark/LibreTV",
+    "url": "https://github.com/LibreSpark/LibreTV",
+    "source": "starred",
+    "category": "影视",
+    "summary": "轻量级在线视频搜索与影视站部署项目",
+    "tags": [
+      "在线视频",
+      "影视站",
+      "Vercel",
+      "Docker",
+      "TV"
+    ],
+    "notes": "",
+    "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+    "topics": [
+      "css",
+      "html",
+      "movie-web-app",
+      "movies-and-cinemas",
+      "tv"
+    ],
+    "language": "JavaScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "LucklySpace/Lucky-client",
+    "url": "https://github.com/LucklySpace/Lucky-client",
+    "source": "starred",
+    "category": "即时通讯",
+    "summary": "基于Tauri和Vue3的跨平台即时通讯客户端",
+    "tags": [
+      "Tauri",
+      "Vue3",
+      "Rust",
+      "WebRTC",
+      "桌面应用"
+    ],
+    "notes": "",
+    "description": "A cross-platform instant messaging client application built with Tauri and Vue 3, featuring one-to-one chat, group chat, file transfer, audio/video calling, screen recording, screenshot capture, and QR code login capabilities.",
+    "topics": [
+      "element-ui",
+      "ffmpeg",
+      "javascript",
+      "markdown",
+      "protobuf",
+      "rust",
+      "tauri",
+      "typescript",
+      "vite",
+      "vue3",
+      "webrtc"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Lymphatus/caesium-image-compressor",
+    "url": "https://github.com/Lymphatus/caesium-image-compressor",
+    "source": "starred",
+    "category": "图像处理",
+    "summary": "跨平台图片压缩工具，支持JPG、PNG、WebP等",
+    "tags": [
+      "图片压缩",
+      "跨平台",
+      "JPG",
+      "PNG",
+      "WebP"
+    ],
+    "notes": "",
+    "description": "Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",
+    "topics": [
+      "caesium",
+      "compression",
+      "cross-platform",
+      "image-compression",
+      "libcaesium",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "MessagePack-CSharp/MessagePack-CSharp",
+    "url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+    "source": "starred",
+    "category": "序列化",
+    "summary": "高性能C# MessagePack序列化库，支持LZ4压缩",
+    "tags": [
+      "C#",
+      "MessagePack",
+      "序列化",
+      "LZ4",
+      "Unity"
+    ],
+    "notes": "",
+    "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+    "topics": [
+      "c-sharp",
+      "lz4",
+      "messagepack",
+      "msgpack",
+      "serialization",
+      "serializer",
+      "unity",
+      "xamarin"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Morakito/Real-Time-Rendering-4th-CN",
+    "url": "https://github.com/Morakito/Real-Time-Rendering-4th-CN",
+    "source": "starred",
+    "category": "书籍翻译",
+    "summary": "《Real-Time Rendering 4th》中文翻译仓库",
+    "tags": [
+      "实时渲染",
+      "图形学",
+      "中文翻译",
+      "技术书籍",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "《Real-Time Rendering 4th》 (RTR4) 中文翻译",
+    "topics": [],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "NeekChaw/RIPER-5",
+    "url": "https://github.com/NeekChaw/RIPER-5",
+    "source": "starred",
+    "category": "提示词工程",
+    "summary": "收录 AI 编码提示词与工作流协议集合",
+    "tags": [
+      "AI",
+      "提示词",
+      "工作流",
+      "Claude",
+      "Cursor"
+    ],
+    "notes": "",
+    "description": "神级Cursor Rule",
+    "topics": [],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "NeekChaw/awesome-prompt",
+    "url": "https://github.com/NeekChaw/awesome-prompt",
+    "source": "starred",
+    "category": "提示词",
+    "summary": "精选惊艳 AI 提示词的中文合集仓库",
+    "tags": [
+      "Prompt",
+      "AI",
+      "提示词合集",
+      "内容创作",
+      "工作流"
+    ],
+    "notes": "",
+    "description": "让你一眼惊艳的prompt",
+    "topics": [],
+    "language": "GCC Machine Description",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "No78Vino/gameplay-ability-system-for-unity",
+    "url": "https://github.com/No78Vino/gameplay-ability-system-for-unity",
+    "source": "starred",
+    "category": "Unity插件",
+    "summary": "Unity版Gameplay Ability System实现框架",
+    "tags": [
+      "Unity",
+      "GAS",
+      "能力系统",
+      "游戏框架",
+      "Unity3D"
+    ],
+    "notes": "",
+    "description": "Gameplay-Ability-System For Unity",
+    "topics": [
+      "ability-system",
+      "gameplay",
+      "gameplay-ability-system",
+      "gas",
+      "unity",
+      "unity3d"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Orenoid/BabelDuck",
+    "url": "https://github.com/Orenoid/BabelDuck",
+    "source": "starred",
+    "category": "语言学习",
+    "summary": "面向初学者的 AI 口语对话练习应用",
+    "tags": [
+      "AI",
+      "聊天机器人",
+      "语言学习",
+      "口语练习",
+      "语音"
+    ],
+    "notes": "",
+    "description": "Beginner-friendly AI conversation practice application",
+    "topics": [
+      "ai",
+      "chatbot",
+      "chatgpt",
+      "conversation",
+      "language-learning",
+      "language-practice",
+      "openai",
+      "speech"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "为 AI Agent 提供全网读取与搜索的免费 CLI",
+    "tags": [
+      "ai-agent",
+      "cli",
+      "python",
+      "web-scraper",
+      "ai-search"
+    ],
+    "notes": "",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "PicoTrex/Awesome-Nano-Banana-images",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "source": "starred",
+    "category": "图像生成",
+    "summary": "Nano Banana 图像案例精选与一致性数据集",
+    "tags": [
+      "awesome",
+      "Nano Banana",
+      "Gemini",
+      "图像生成",
+      "数据集"
+    ],
+    "notes": "",
+    "description": "A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)",
+    "topics": [
+      "awesome",
+      "gemini-2-5-flash-image",
+      "nano-banana"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "ProwlEngine/Prowl",
+    "url": "https://github.com/ProwlEngine/Prowl",
+    "source": "starred",
+    "category": "游戏引擎",
+    "summary": "开源C# 3D游戏引擎，含类Unity编辑器",
+    "tags": [
+      "C#",
+      "3D引擎",
+      "Unity-like",
+      "游戏开发",
+      "图形渲染"
+    ],
+    "notes": "",
+    "description": "An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor",
+    "topics": [
+      "3d",
+      "3d-engine",
+      "3d-graphics",
+      "directx",
+      "game-engine",
+      "game-engine-3d",
+      "gamedev",
+      "gameengine",
+      "graphics",
+      "jitter",
+      "metal",
+      "opengl",
+      "pbr",
+      "veldrid",
+      "vulkan"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "QuivrHQ/quivr",
+    "url": "https://github.com/QuivrHQ/quivr",
+    "source": "starred",
+    "category": "AI框架",
+    "summary": "面向应用集成的可定制 RAG 框架",
+    "tags": [
+      "RAG",
+      "LLM",
+      "聊天机器人",
+      "向量数据库",
+      "Python"
+    ],
+    "notes": "",
+    "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "RSSNext/Folo",
+    "url": "https://github.com/RSSNext/Folo",
+    "source": "starred",
+    "category": "阅读工具",
+    "summary": "一款聚合时间线的 AI RSS 阅读器",
+    "tags": [
+      "ai",
+      "rss",
+      "rss-reader",
+      "reader",
+      "rsshub"
+    ],
+    "notes": "",
+    "description": "🧡 Folo is the AI RSS Reader",
+    "topics": [
+      "ai",
+      "reader",
+      "rss",
+      "rss-reader",
+      "rsshub"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "StarrDream/HTML-to-UGUI-Baker",
+    "url": "https://github.com/StarrDream/HTML-to-UGUI-Baker",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "将HTML原型自动转换为Unity UGUI界面树",
+    "tags": [
+      "Unity",
+      "UGUI",
+      "HTML",
+      "编辑器扩展",
+      "AI原型"
+    ],
+    "notes": "",
+    "description": "HTML原型转Unity UGUI",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "SuperClaude-Org/SuperClaude_Framework",
+    "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "source": "starred",
+    "category": "AI开发工具",
+    "summary": "增强 Claude Code 的结构化开发配置框架",
+    "tags": [
+      "Claude Code",
+      "配置框架",
+      "开发工作流",
+      "AI代理",
+      "命令行工具"
+    ],
+    "notes": "",
+    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "source": "starred",
+    "category": "AI教育",
+    "summary": "一键生成沉浸式多智能体互动课堂平台",
+    "tags": [
+      "多智能体",
+      "教育平台",
+      "LLM应用",
+      "Next.js",
+      "互动课堂"
+    ],
+    "notes": "",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "topics": [],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "source": "starred",
+    "category": "教育资源",
+    "summary": "收录中国小初高及大学PDF教材资源",
+    "tags": [
+      "教材",
+      "PDF",
+      "中小学",
+      "大学",
+      "数学"
+    ],
+    "notes": "",
+    "description": "所有小初高、大学PDF教材。",
+    "topics": [],
+    "language": "Roff",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "TencentCloudBase/CloudBase-MCP",
+    "url": "https://github.com/TencentCloudBase/CloudBase-MCP",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "连接 AI IDE 与腾讯云开发的一键部署 MCP 工具",
+    "tags": [
+      "AI",
+      "MCP",
+      "CloudBase",
+      "Serverless",
+      "腾讯云"
+    ],
+    "notes": "",
+    "description": "CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app.",
+    "topics": [
+      "ai",
+      "aicoding",
+      "cloudbase",
+      "cursor",
+      "mcp",
+      "miniprogram",
+      "serverless",
+      "supabase",
+      "tencent",
+      "vibe-coding",
+      "web"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "The-Pocket/PocketFlow",
+    "url": "https://github.com/The-Pocket/PocketFlow",
+    "source": "starred",
+    "category": "AI框架",
+    "summary": "仅百行代码的轻量级 LLM Agent 工作流框架",
+    "tags": [
+      "LLM框架",
+      "Agent",
+      "工作流",
+      "RAG",
+      "轻量级"
+    ],
+    "notes": "",
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-framework",
+      "ai-frameworks",
+      "aiagent",
+      "aiagents",
+      "artificial-intelligence",
+      "flow-based-programming",
+      "flow-engineering",
+      "large-language-model",
+      "large-language-models",
+      "llm-agent",
+      "llm-framework",
+      "pocket-flow",
+      "pocketflow",
+      "retrieval-augmented-generation",
+      "workflow",
+      "workflow-orchestration"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "WEIFENG2333/VideoCaptioner",
+    "url": "https://github.com/WEIFENG2333/VideoCaptioner",
+    "source": "starred",
+    "category": "视频工具",
+    "summary": "基于 LLM 的视频字幕生成、优化与翻译工具",
+    "tags": [
+      "AI",
+      "字幕",
+      "翻译",
+      "视频处理",
+      "CLI"
+    ],
+    "notes": "",
+    "description": "🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.",
+    "topics": [
+      "ai",
+      "subtitle",
+      "translate",
+      "video-subtile"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "XH-Unity/XHFrameworkSkill",
+    "url": "https://github.com/XH-Unity/XHFrameworkSkill",
+    "source": "starred",
+    "category": "Unity",
+    "summary": "Unity可视化技能编辑器与GAS技能框架",
+    "tags": [
+      "Unity",
+      "技能系统",
+      "可视化编辑器",
+      "GAS",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "XINCGer/UnityToolchainsTrick",
+    "url": "https://github.com/XINCGer/UnityToolchainsTrick",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "收录Unity编辑器工具链开发技巧与示例",
+    "tags": [
+      "Unity",
+      "UnityEditor",
+      "编辑器扩展",
+      "工具链",
+      "示例"
+    ],
+    "notes": "",
+    "description": "提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "XiaomingX/indie-hacker-tools-plus",
+    "url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
+    "source": "starred",
+    "category": "工具集合",
+    "summary": "独立开发者出海与AI工具精选清单",
+    "tags": [
+      "独立开发",
+      "工具清单",
+      "AI",
+      "出海",
+      "awesome-list"
+    ],
+    "notes": "",
+    "description": "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀",
+    "topics": [
+      "agent",
+      "ai",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "aws",
+      "azure",
+      "cloudflare",
+      "github",
+      "hacker",
+      "indiehacker",
+      "llm",
+      "nextjs",
+      "shadcn"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "XuToWei/ReactiveBinding",
+    "url": "https://github.com/XuToWei/ReactiveBinding",
+    "source": "starred",
+    "category": "C#库",
+    "summary": "基于 C# 源生成器的编译期响应式数据绑定系统",
+    "tags": [
+      "C#",
+      "Source Generator",
+      "响应式编程",
+      "数据绑定",
+      "Unity"
+    ],
+    "notes": "",
+    "description": "A compile-time reactive data binding system using C# Source Generator.",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Y2Z/monolith",
+    "url": "https://github.com/Y2Z/monolith",
+    "source": "starred",
+    "category": "网页归档",
+    "summary": "将完整网页打包保存为单个HTML文件的CLI工具",
+    "tags": [
+      "CLI",
+      "网页保存",
+      "离线浏览",
+      "HTML",
+      "归档"
+    ],
+    "notes": "",
+    "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file",
+    "topics": [
+      "come-and-take-it",
+      "e-hoarding",
+      "its-mine",
+      "make-the-internet-great-again",
+      "no-more-404",
+      "procrastination",
+      "save-the-internet",
+      "tab-rehab"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "YILING0013/AI_NovelGenerator",
+    "url": "https://github.com/YILING0013/AI_NovelGenerator",
+    "source": "starred",
+    "category": "AI写作",
+    "summary": "基于AI生成多章节长篇小说的创作平台",
+    "tags": [
+      "小说生成",
+      "长文本生成",
+      "FastAPI",
+      "Next.js",
+      "AI创作"
+    ],
+    "notes": "",
+    "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "YaoFANGUK/video-subtitle-remover",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+    "source": "starred",
+    "category": "视频处理",
+    "summary": "本地AI去除视频字幕与图片文字水印工具",
+    "tags": [
+      "AI",
+      "字幕去除",
+      "去水印",
+      "视频处理",
+      "图像修复"
+    ],
+    "notes": "",
+    "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+    "topics": [
+      "ai",
+      "deepleanring",
+      "sub-remove",
+      "subtile",
+      "vsr"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "Yuliang-Liu/MonkeyOCR",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "source": "starred",
+    "category": "OCR",
+    "summary": "轻量级多模态文档解析与OCR模型",
+    "tags": [
+      "文档解析",
+      "多模态",
+      "OCR",
+      "LMM",
+      "模型"
+    ],
+    "notes": "",
+    "description": "A lightweight LMM-based Document Parsing Model",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "aingdesk/AingDesk",
+    "url": "https://github.com/aingdesk/AingDesk",
+    "source": "starred",
+    "category": "AI助手",
+    "summary": "简单易用的AI助手，支持知识库与本地模型",
+    "tags": [
+      "llm",
+      "electron",
+      "知识库",
+      "ollama",
+      "localai"
+    ],
+    "notes": "",
+    "description": "AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly.",
+    "topics": [
+      "deepseek",
+      "electron",
+      "llm",
+      "localai",
+      "nodejs",
+      "ollama"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "alphacep/vosk-api",
+    "url": "https://github.com/alphacep/vosk-api",
+    "source": "starred",
+    "category": "语音识别",
+    "summary": "跨平台离线语音识别与说话人识别 API",
+    "tags": [
+      "speech-recognition",
+      "offline",
+      "asr",
+      "kaldi",
+      "vosk"
+    ],
+    "notes": "",
+    "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+    "topics": [
+      "android",
+      "asr",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepspeech",
+      "google-speech-to-text",
+      "ios",
+      "kaldi",
+      "offline",
+      "privacy",
+      "python",
+      "raspberry-pi",
+      "speaker-identification",
+      "speaker-verification",
+      "speech-recognition",
+      "speech-to-text",
+      "speech-to-text-android",
+      "stt",
+      "voice-recognition",
+      "vosk"
+    ],
+    "language": "Jupyter Notebook",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "anjoy8/Blog.Core",
+    "url": "https://github.com/anjoy8/Blog.Core",
+    "source": "starred",
+    "category": "后端框架",
+    "summary": "ASP.NET Core 8 企业级前后端分离权限框架",
+    "tags": [
+      "ASP.NET Core",
+      "WebAPI",
+      "RBAC",
+      "Vue",
+      "Redis"
+    ],
+    "notes": "",
+    "description": "💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：",
+    "topics": [
+      "aop",
+      "autofac",
+      "automapper",
+      "cors",
+      "dependency-injection",
+      "dto",
+      "ioc",
+      "jwt",
+      "net7",
+      "netcore",
+      "netcore-vue",
+      "netcore-webapi",
+      "rbac",
+      "rbac-roles",
+      "redis",
+      "repository",
+      "sqlsugar",
+      "sqlsugarcore",
+      "swagger",
+      "t4"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "blinkospace/blinko",
+    "url": "https://github.com/blinkospace/blinko",
+    "source": "starred",
+    "category": "笔记工具",
+    "summary": "开源自托管的隐私优先 AI 笔记工具",
+    "tags": [
+      "AI笔记",
+      "自托管",
+      "隐私优先",
+      "Markdown",
+      "Next.js"
+    ],
+    "notes": "",
+    "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+    "topics": [
+      "markdown",
+      "memos",
+      "nextjs",
+      "notebook",
+      "openai",
+      "postgres",
+      "react",
+      "self-hosted"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "bookfere/Ebook-Translator-Calibre-Plugin",
+    "url": "https://github.com/bookfere/Ebook-Translator-Calibre-Plugin",
+    "source": "starred",
+    "category": "阅读工具",
+    "summary": "将电子书翻译为指定语言的 Calibre 插件",
+    "tags": [
+      "Calibre",
+      "Calibre插件",
+      "电子书",
+      "翻译",
+      "OpenAI"
+    ],
+    "notes": "",
+    "description": "A Calibre plugin to translate ebook into a specified language.",
+    "topics": [
+      "bilingual",
+      "calibre",
+      "calibre-plugin",
+      "chatgpt",
+      "deepl",
+      "epub",
+      "kindle",
+      "openai",
+      "translate",
+      "translator"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "boxqkrtm/com.unity.ide.cursor",
+    "url": "https://github.com/boxqkrtm/com.unity.ide.cursor",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "为 Unity 集成 Cursor 编辑器并生成 csproj",
+    "tags": [
+      "Unity",
+      "Cursor",
+      "代码编辑器",
+      "IDE集成",
+      "csproj"
+    ],
+    "notes": "",
+    "description": "Code editor integration for supporting Cursor as code editor for unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, etc. 📦 [Mirrored from UPM, not affiliated with Unity Technologies.]",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "source": "starred",
+    "category": "教育",
+    "summary": "一份系统讲解英语进阶与学习方法的中文指南",
+    "tags": [
+      "英语学习",
+      "教程",
+      "中文",
+      "学习方法",
+      "AI"
+    ],
+    "notes": "",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "topics": [
+      "chinese",
+      "english-learning",
+      "tutorial"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "chatboxai/chatbox",
+    "url": "https://github.com/chatboxai/chatbox",
+    "source": "starred",
+    "category": "AI客户端",
+    "summary": "开源桌面AI客户端，支持多种大模型对话",
+    "tags": [
+      "assistant",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "openai"
+    ],
+    "notes": "",
+    "description": "Powerful AI Client",
+    "topics": [
+      "assistant",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "copilot",
+      "deepseek",
+      "gemini",
+      "gpt",
+      "gpt-5",
+      "ollama",
+      "openai"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "chclt/oh-my-wechat",
+    "url": "https://github.com/chclt/oh-my-wechat",
+    "source": "starred",
+    "category": "备份工具",
+    "summary": "本地读取微信备份并还原聊天记录的阅读器",
+    "tags": [
+      "微信",
+      "备份",
+      "聊天记录",
+      "本地处理",
+      "阅读器"
+    ],
+    "notes": "",
+    "description": "微信备份阅读器",
+    "topics": [],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "chenhg5/cc-connect",
+    "url": "https://github.com/chenhg5/cc-connect",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "将本地 AI 编程助手接入多种聊天平台",
+    "tags": [
+      "AI代理",
+      "消息平台",
+      "聊天机器人",
+      "本地开发",
+      "跨平台"
+    ],
+    "notes": "",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+    "topics": [],
+    "language": "Go",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "clawdotnet/openclaw.net",
+    "url": "https://github.com/clawdotnet/openclaw.net",
+    "source": "starred",
+    "category": "AI/Agent",
+    "summary": "基于.NET的自托管AI代理网关与运行时",
+    "tags": [
+      "dotnet",
+      "ai-agent",
+      "self-hosted",
+      "llm",
+      "automation"
+    ],
+    "notes": "",
+    "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
+    "topics": [
+      "agent-runtime",
+      "ai-agent",
+      "automation",
+      "csharp",
+      "discord-bot",
+      "dotnet",
+      "llm",
+      "mcp",
+      "memory",
+      "multimodal",
+      "nativeaot",
+      "openai-compatible",
+      "openclaw",
+      "realtime",
+      "self-evolving",
+      "self-hosted",
+      "slack-bot",
+      "text-to-speech",
+      "tool-calling",
+      "tool-execution"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "source": "starred",
+    "category": "教程资源",
+    "summary": "从零重建常见技术的编程教程合集",
+    "tags": [
+      "awesome-list",
+      "编程学习",
+      "教程",
+      "从零实现",
+      "技术原理"
+    ],
+    "notes": "",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "topics": [
+      "awesome-list",
+      "free",
+      "programming",
+      "tutorial-code",
+      "tutorial-exercises",
+      "tutorials"
+    ],
+    "language": "Markdown",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "source": "starred",
+    "category": "学习资料",
+    "summary": "面向程序员的考公考编备考指南",
+    "tags": [
+      "考公",
+      "公务员",
+      "事业编",
+      "教师",
+      "程序员"
+    ],
+    "notes": "",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "topics": [],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "crashkonijn/GOAP",
+    "url": "https://github.com/crashkonijn/GOAP",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "适用于Unity的多线程GOAP游戏AI系统",
+    "tags": [
+      "Unity",
+      "GOAP",
+      "游戏AI",
+      "多线程",
+      "行为规划"
+    ],
+    "notes": "",
+    "description": "A multi-threaded GOAP system for Unity",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "cyfyifanchen/one-person-company",
+    "url": "https://github.com/cyfyifanchen/one-person-company",
+    "source": "starred",
+    "category": "资源整理",
+    "summary": "精选一人公司常用AI工具与生产力资源",
+    "tags": [
+      "AI",
+      "生产力",
+      "工具合集",
+      "信息整理",
+      "一人公司"
+    ],
+    "notes": "",
+    "description": "遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!",
+    "topics": [
+      "ai",
+      "information",
+      "productivity",
+      "tools"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "datawhalechina/happy-llm",
+    "url": "https://github.com/datawhalechina/happy-llm",
+    "source": "starred",
+    "category": "教程",
+    "summary": "从零讲解并实战构建大语言模型的中文教程",
+    "tags": [
+      "LLM",
+      "Agent",
+      "RAG",
+      "Transformer",
+      "NLP"
+    ],
+    "notes": "",
+    "description": "📚 从零开始构建大模型",
+    "topics": [
+      "agent",
+      "llm",
+      "rag"
+    ],
+    "language": "Jupyter Notebook",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "datawhalechina/llm-cookbook",
+    "url": "https://github.com/datawhalechina/llm-cookbook",
+    "source": "starred",
+    "category": "教程",
+    "summary": "面向开发者的中文版 LLM 入门与实践教程",
+    "tags": [
+      "LLM",
+      "教程",
+      "Prompt Engineering",
+      "LangChain",
+      "RAG"
+    ],
+    "notes": "",
+    "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+    "topics": [
+      "cookbook",
+      "llm"
+    ],
+    "language": "Jupyter Notebook",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "dmtrKovalenko/fff.nvim",
+    "url": "https://github.com/dmtrKovalenko/fff.nvim",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向 AI 与 Neovim 的高速文件搜索工具",
+    "tags": [
+      "文件搜索",
+      "Neovim",
+      "Lua",
+      "Rust",
+      "AI代理"
+    ],
+    "notes": "",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+    "topics": [
+      "filesearch",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "rust"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "drl990114/MarkFlowy",
+    "url": "https://github.com/drl990114/MarkFlowy",
+    "source": "starred",
+    "category": "编辑器",
+    "summary": "基于 Tauri 的智能 Markdown 编辑器",
+    "tags": [
+      "Markdown",
+      "AI",
+      "Tauri",
+      "React",
+      "Rust"
+    ],
+    "notes": "",
+    "description": "The AI Markdown Editor",
+    "topics": [
+      "ai",
+      "chatgpt",
+      "deepseek",
+      "editor",
+      "linux-app",
+      "macos-app",
+      "markdown",
+      "markdowneditor",
+      "notes-app",
+      "prosemirror",
+      "reactjs",
+      "rust-lang",
+      "tauri",
+      "typescript",
+      "windows-app"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "dromara/electron-egg",
+    "url": "https://github.com/dromara/electron-egg",
+    "source": "starred",
+    "category": "桌面开发框架",
+    "summary": "跨平台企业级 Electron 桌面开发框架",
+    "tags": [
+      "electron",
+      "nodejs",
+      "跨平台",
+      "桌面应用",
+      "开发框架"
+    ],
+    "notes": "",
+    "description": "A simple, cross platform, enterprise desktop software development framework",
+    "topics": [
+      "electron",
+      "electron-app",
+      "electron-egg",
+      "nodejs"
+    ],
+    "language": "JavaScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "source": "starred",
+    "category": "游戏框架",
+    "summary": "Unity3D客户端与C#服务端MMO游戏框架",
+    "tags": [
+      "Unity",
+      "C#",
+      "MMO",
+      "服务端",
+      "Unity3D"
+    ],
+    "notes": "",
+    "description": "Unity3D Client And C# Server Framework",
+    "topics": [
+      "actor",
+      "c-sharp",
+      "dotnet",
+      "game",
+      "game-engine",
+      "meta",
+      "metaverse",
+      "mmo",
+      "mmorpg",
+      "server",
+      "unity",
+      "unity3d",
+      "web3"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "fish2018/pansou",
+    "url": "https://github.com/fish2018/pansou",
+    "source": "starred",
+    "category": "搜索服务",
+    "summary": "高性能网盘资源搜索API，支持TG与插件并发搜索",
+    "tags": [
+      "网盘搜索",
+      "API服务",
+      "Telegram",
+      "插件系统",
+      "Docker"
+    ],
+    "notes": "",
+    "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/",
+    "topics": [],
+    "language": "Go",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "flutter/codelabs",
+    "url": "https://github.com/flutter/codelabs",
+    "source": "starred",
+    "category": "教程示例",
+    "summary": "Flutter 官方示例教程与练习代码集合",
+    "tags": [
+      "Flutter",
+      "Codelab",
+      "Dart",
+      "示例代码",
+      "教学资源"
+    ],
+    "notes": "",
+    "description": "Flutter codelab examples",
+    "topics": [],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "focus-creative-games/hybridclr",
+    "url": "https://github.com/focus-creative-games/hybridclr",
+    "source": "starred",
+    "category": "Unity框架",
+    "summary": "Unity 全平台原生 C# 热更新解决方案",
+    "tags": [
+      "unity",
+      "csharp",
+      "热更新",
+      "il2cpp",
+      "hotfix"
+    ],
+    "notes": "",
+    "description": "HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",
+    "topics": [
+      "csharp",
+      "framework",
+      "hot",
+      "hot-update",
+      "hotfix",
+      "hotupdate",
+      "huatuo",
+      "il2cpp",
+      "ios",
+      "unity",
+      "update"
+    ],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "focus-creative-games/obfuz",
+    "url": "https://github.com/focus-creative-games/obfuz",
+    "source": "starred",
+    "category": "Unity插件",
+    "summary": "开源Unity代码混淆与加固插件，支持热更新方案",
+    "tags": [
+      "Unity",
+      "代码混淆",
+      "安全加固",
+      "HybridCLR",
+      "xLua"
+    ],
+    "notes": "",
+    "description": "Obfuz：功能强大的开源 Unity 代码混淆插件。深度集成 Unity 工作流，配置简单，支持 HybridCLR、xLua 等热更新方案。A powerful open-source code obfuscation plugin for Unity. Deeply integrated with the Unity workflow, easy to configure, and supports hotfix solutions like HybridCLR and xLua.",
+    "topics": [
+      "confuserex",
+      "confusion",
+      "hybridclr",
+      "luban",
+      "obfuscation",
+      "obfuscator",
+      "unity"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "freeok/so-novel",
+    "url": "https://github.com/freeok/so-novel",
+    "source": "starred",
+    "category": "电子书工具",
+    "summary": "通用网页小说下载与电子书导出工具",
+    "tags": [
+      "小说下载",
+      "电子书",
+      "CLI",
+      "TUI",
+      "内容导出"
+    ],
+    "notes": "",
+    "description": "小说下载｜网文下载 | 网络小说",
+    "topics": [
+      "cli",
+      "content-export",
+      "document-parser",
+      "ebook",
+      "novel",
+      "offline-reader",
+      "tui"
+    ],
+    "language": "Java",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "gkd-kit/gkd",
+    "url": "https://github.com/gkd-kit/gkd",
+    "source": "starred",
+    "category": "Android应用",
+    "summary": "基于无障碍与规则订阅的安卓自动点击应用",
+    "tags": [
+      "android",
+      "accessibility",
+      "自动化",
+      "kotlin",
+      "jetpack-compose"
+    ],
+    "notes": "",
+    "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+    "topics": [
+      "accessibility",
+      "android",
+      "auto",
+      "click",
+      "compose",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-js",
+      "kotlin-multiplatform",
+      "webassembly"
+    ],
+    "language": "Kotlin",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "hackerzhuli/unity-code",
+    "url": "https://github.com/hackerzhuli/unity-code",
+    "source": "starred",
+    "category": "VS Code扩展",
+    "summary": "在 VS Code 中提供类 Unity IDE 开发体验的扩展",
+    "tags": [
+      "unity",
+      "vscode-extension",
+      "调试",
+      "测试",
+      "语言服务器"
+    ],
+    "notes": "",
+    "description": "Unity Code Pro: Unity IDE right inside VS Code!",
+    "topics": [
+      "cursor",
+      "unity",
+      "vscode-extension",
+      "windsurf"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "hacksider/Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "基于单张图片实现实时换脸与视频深度伪造",
+    "tags": [
+      "deepfake",
+      "换脸",
+      "实时处理",
+      "视频处理",
+      "webcam"
+    ],
+    "notes": "",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "handzlikchris/FastScriptReload",
+    "url": "https://github.com/handzlikchris/FastScriptReload",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "Unity 热重载工具，播放时快速应用代码变更",
+    "tags": [
+      "Unity",
+      "热重载",
+      "unity3d",
+      "开发工具"
+    ],
+    "notes": "",
+    "description": "Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results",
+    "topics": [
+      "hot-reload",
+      "unity",
+      "unity3d"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "hzlzh/Best-App",
+    "url": "https://github.com/hzlzh/Best-App",
+    "source": "starred",
+    "category": "资源列表",
+    "summary": "收集推荐优质 App、硬件与生活周边清单",
+    "tags": [
+      "app",
+      "mac",
+      "macos",
+      "iOS",
+      "推荐"
+    ],
+    "notes": "",
+    "description": "收集&推荐优秀的 Apps/硬件/技巧/周边等",
+    "topics": [
+      "app",
+      "mac",
+      "macos"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "iOfficeAI/AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "开源本地化AI协作平台，集成多智能体与办公助手",
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "webui",
+      "办公自动化",
+      "gemini-cli"
+    ],
+    "notes": "",
+    "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "nano-banana",
+      "office",
+      "openclaw",
+      "opencode",
+      "skills",
+      "webui"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "将网站、Electron应用和本地工具统一为AI可调用CLI",
+    "tags": [
+      "cli",
+      "ai-agent",
+      "ai-tools",
+      "浏览器自动化",
+      "Electron"
+    ],
+    "notes": "",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "jgm/pandoc",
+    "url": "https://github.com/jgm/pandoc",
+    "source": "starred",
+    "category": "文档工具",
+    "summary": "支持多种文档标记格式互转的通用转换工具",
+    "tags": [
+      "文档转换",
+      "Markdown",
+      "标记语言",
+      "Haskell",
+      "Pandoc"
+    ],
+    "notes": "",
+    "description": "Universal markup converter",
+    "topics": [
+      "commonmark",
+      "converter",
+      "document",
+      "haskell",
+      "markdown",
+      "markup",
+      "pandoc",
+      "presentation",
+      "publishing"
+    ],
+    "language": "Haskell",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "starred",
+    "category": "机器学习",
+    "summary": "从零训练64M小型GPT的极简LLM教程与全流程实现",
+    "tags": [
+      "人工智能",
+      "大语言模型",
+      "GPT",
+      "PyTorch",
+      "教程"
+    ],
+    "notes": "",
+    "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "killop/anything_about_game",
+    "url": "https://github.com/killop/anything_about_game",
+    "source": "starred",
+    "category": "资源列表",
+    "summary": "游戏开发资源大全，涵盖引擎、Unity、ECS与图形学",
+    "tags": [
+      "awesome-list",
+      "game-development",
+      "unity",
+      "ecs",
+      "game-engine"
+    ],
+    "notes": "",
+    "description": "A wonderful list of Game Development resources.",
+    "topics": [
+      "2d-game-framework",
+      "ai-agent",
+      "awesome-list",
+      "csharp",
+      "ecs",
+      "ecs-libraries",
+      "game",
+      "game-asset",
+      "game-development",
+      "game-engine",
+      "game-math",
+      "gamedev",
+      "llm",
+      "physics-framework",
+      "shader",
+      "unity",
+      "unity-ecs"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "killop/code-review-skill",
+    "url": "https://github.com/killop/code-review-skill",
+    "source": "starred",
+    "category": "代码审查",
+    "summary": "面向通用工程的自动化代码审查与作者追溯技能",
+    "tags": [
+      "代码审查",
+      "自动化",
+      "质量检查",
+      "Git",
+      "报告生成"
+    ],
+    "notes": "",
+    "description": "",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "kuronekoyang/ReflectionTool",
+    "url": "https://github.com/kuronekoyang/ReflectionTool",
+    "source": "starred",
+    "category": "Unity工具",
+    "summary": "Unity 的C#反射包装生成与方法钩子工具",
+    "tags": [
+      "Unity",
+      "C#",
+      "反射",
+      "方法钩子",
+      "编辑器扩展"
+    ],
+    "notes": "",
+    "description": "C# Reflection Wrapper Generation & Method Hooking Tools For Unity",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "labbbirder/UnityVue",
+    "url": "https://github.com/labbbirder/UnityVue",
+    "source": "starred",
+    "category": "Unity框架",
+    "summary": "面向Unity的纯C#响应式Vue框架，运行时0GC",
+    "tags": [
+      "Unity",
+      "C#",
+      "Vue",
+      "响应式编程",
+      "UI框架"
+    ],
+    "notes": "",
+    "description": "纯C#下实现Vue，非常节能高效，特别针对Unity深度优化设计",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "source": "custom",
+    "category": "AI",
+    "summary": "重点关注 agent 能力",
+    "tags": [
+      "LLM",
+      "Agent"
+    ],
+    "notes": "重点关注 agent 能力",
+    "description": "The agent engineering platform",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "source": "starred",
+    "category": "笔记工具",
+    "summary": "注重隐私的跨平台笔记与待办同步应用",
+    "tags": [
+      "笔记",
+      "待办",
+      "同步",
+      "跨平台",
+      "隐私"
+    ],
+    "notes": "",
+    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+    "topics": [
+      "android",
+      "dropbox",
+      "electron",
+      "enex-files",
+      "evernote",
+      "javascript",
+      "joplin",
+      "nextcloud",
+      "nodejs",
+      "note-taking",
+      "onedrive",
+      "react-native",
+      "synchronisation",
+      "web-clipper",
+      "webdav"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "likeflyme/cloudbak",
+    "url": "https://github.com/likeflyme/cloudbak",
+    "source": "starred",
+    "category": "备份工具",
+    "summary": "微信聊天数据云备份工具，支持服务器与NAS",
+    "tags": [
+      "微信",
+      "聊天备份",
+      "云备份",
+      "Docker",
+      "NAS"
+    ],
+    "notes": "",
+    "description": "微信云备份，备份到服务器、Docker、NAS，Web访问。",
+    "topics": [
+      "wechat",
+      "wechat-backup"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "linshenkx/prompt-optimizer",
+    "url": "https://github.com/linshenkx/prompt-optimizer",
+    "source": "starred",
+    "category": "AI工具",
+    "summary": "多端可用的 AI 提示词优化与测试工具",
+    "tags": [
+      "LLM",
+      "提示词",
+      "提示工程",
+      "提示词优化",
+      "Chrome插件"
+    ],
+    "notes": "",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "topics": [
+      "llm",
+      "prompt",
+      "prompt-engineering",
+      "prompt-optimization",
+      "prompt-toolkit",
+      "prompt-tuning"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "liou666/polyglot",
+    "url": "https://github.com/liou666/polyglot",
+    "source": "starred",
+    "category": "语言学习",
+    "summary": "基于ChatGPT与Azure的跨平台语言练习应用",
+    "tags": [
+      "ChatGPT",
+      "OpenAI",
+      "Azure",
+      "Electron",
+      "TTS"
+    ],
+    "notes": "",
+    "description": "🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用）",
+    "topics": [
+      "azure",
+      "chatgpt",
+      "electron",
+      "openai",
+      "polyglot",
+      "tts"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "liyingsong99/AIBridge",
+    "url": "https://github.com/liyingsong99/AIBridge",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向 AI 助手的 Unity 自动化桥接插件",
+    "tags": [
+      "Unity",
+      "自动化",
+      "AI辅助开发",
+      "游戏开发",
+      "CLI"
+    ],
+    "notes": "",
+    "description": "A file-based Unity automation bridge for AI coding assistants, providing stable, MCP-free commands for logs, asset and prefab operations, project compilation, scene editing, and screenshot/GIF capture.",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "lobehub/lobehub",
+    "url": "https://github.com/lobehub/lobehub",
+    "source": "starred",
+    "category": "AI开发平台",
+    "summary": "多智能体协作与知识库驱动的 AI Agent 平台",
+    "tags": [
+      "AI",
+      "Agent",
+      "多智能体",
+      "知识库",
+      "MCP"
+    ],
+    "notes": "",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+    "topics": [
+      "agent",
+      "agent-collaboration",
+      "agent-harness",
+      "ai",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "gpt",
+      "knowledge-base",
+      "mcp",
+      "openai"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "lvzhenbo/115-plus-desktop",
+    "url": "https://github.com/lvzhenbo/115-plus-desktop",
+    "source": "starred",
+    "category": "桌面应用",
+    "summary": "基于Tauri与Vue3的115网盘桌面客户端",
+    "tags": [
+      "115网盘",
+      "Tauri",
+      "Vue3",
+      "Aria2",
+      "Rust"
+    ],
+    "notes": "",
+    "description": "115+ 是一个基于 115 网盘开放平台的第三方开源桌面客户端",
+    "topics": [
+      "115",
+      "115pan",
+      "alova",
+      "aria2",
+      "naive-ui",
+      "tauri",
+      "tauri2",
+      "vue",
+      "vue3",
+      "vuejs"
+    ],
+    "language": "Vue",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "mastra-ai/mastra",
+    "url": "https://github.com/mastra-ai/mastra",
+    "source": "starred",
+    "category": "AI框架",
+    "summary": "用于构建 AI 应用与智能体的 TypeScript 框架",
+    "tags": [
+      "ai",
+      "agents",
+      "typescript",
+      "llm",
+      "workflows"
+    ],
+    "notes": "",
+    "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+    "topics": [
+      "agents",
+      "ai",
+      "chatbots",
+      "evals",
+      "javascript",
+      "llm",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "reactjs",
+      "tts",
+      "typescript",
+      "workflows"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "michidk/Unity-Script-Collection",
+    "url": "https://github.com/michidk/Unity-Script-Collection",
+    "source": "starred",
+    "category": "资源集合",
+    "summary": "收录实用免费 Unity 脚本、插件与扩展资源",
+    "tags": [
+      "unity",
+      "csharp",
+      "unity-scripts",
+      "插件",
+      "资源合集"
+    ],
+    "notes": "",
+    "description": "A maintained collection of useful & free unity scripts / library's / plugins and extensions",
+    "topics": [
+      "csharp",
+      "hacktoberfest",
+      "material",
+      "particles",
+      "pathfinding",
+      "physics",
+      "script",
+      "scripts",
+      "shader",
+      "shaders",
+      "steamworks",
+      "unity",
+      "unity-asset",
+      "unity-editor",
+      "unity-scripts",
+      "unity2d",
+      "unity3d",
+      "unity3d-plugin",
+      "unity3d-script"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "starred",
+    "category": "文档处理",
+    "summary": "将多种文件和办公文档转换为 Markdown 的 Python 工具",
+    "tags": [
+      "Python",
+      "Markdown",
+      "PDF",
+      "Office",
+      "LLM"
+    ],
+    "notes": "",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "source": "starred",
+    "category": "AI开发框架",
+    "summary": "微软开源的多模型 AI 代理编排 SDK",
+    "tags": [
+      "ai",
+      "llm",
+      "openai",
+      "sdk",
+      "智能体"
+    ],
+    "notes": "",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "llm",
+      "openai",
+      "sdk"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "mob-sakai/ParticleEffectForUGUI",
+    "url": "https://github.com/mob-sakai/ParticleEffectForUGUI",
+    "source": "starred",
+    "category": "Unity插件",
+    "summary": "Unity中在uGUI里渲染可遮罩粒子特效组件",
+    "tags": [
+      "Unity",
+      "uGUI",
+      "粒子特效",
+      "UI组件",
+      "ParticleSystem"
+    ],
+    "notes": "",
+    "description": "Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.",
+    "topics": [
+      "component",
+      "effects",
+      "particle",
+      "particle-system",
+      "ugui",
+      "ui",
+      "unity",
+      "unity3d"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "mpflutter/mpflutter",
+    "url": "https://github.com/mpflutter/mpflutter",
+    "source": "starred",
+    "category": "跨平台框架",
+    "summary": "基于Flutter构建微信小程序与Web应用的跨平台框架",
+    "tags": [
+      "dart",
+      "flutter",
+      "微信小程序",
+      "Web",
+      "跨平台"
+    ],
+    "notes": "",
+    "description": "MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。",
+    "topics": [
+      "dart",
+      "flutter"
+    ],
+    "language": "Dart",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "noopstudios/interactive-feedback-mcp",
+    "url": "https://github.com/noopstudios/interactive-feedback-mcp",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "用于 AI 开发工具的人机反馈交互 MCP 服务",
+    "tags": [
+      "MCP",
+      "AI辅助开发",
+      "人机协作",
+      "Cursor",
+      "Python"
+    ],
+    "notes": "",
+    "description": "Interactive User Feedback MCP",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "oraios/serena",
+    "url": "https://github.com/oraios/serena",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "面向编码代理的 MCP 语义检索与编辑工具包",
+    "tags": [
+      "MCP",
+      "AI编程",
+      "IDE",
+      "语言服务器",
+      "Agent"
+    ],
+    "notes": "",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "pallets/flask",
+    "url": "https://github.com/pallets/flask",
+    "source": "starred",
+    "category": "Web框架",
+    "summary": "轻量级 Python Web 微框架，用于快速构建应用",
+    "tags": [
+      "Python",
+      "Flask",
+      "Web框架",
+      "WSGI",
+      "Jinja"
+    ],
+    "notes": "",
+    "description": "The Python micro framework for building web applications.",
+    "topics": [
+      "flask",
+      "jinja",
+      "pallets",
+      "python",
+      "web-framework",
+      "werkzeug",
+      "wsgi"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "pot-app/pot-desktop",
+    "url": "https://github.com/pot-app/pot-desktop",
+    "source": "starred",
+    "category": "桌面应用",
+    "summary": "跨平台划词翻译与OCR桌面软件",
+    "tags": [
+      "翻译",
+      "OCR",
+      "Tauri",
+      "跨平台",
+      "TTS"
+    ],
+    "notes": "",
+    "description": "🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.",
+    "topics": [
+      "linux",
+      "macos",
+      "ocr",
+      "pot",
+      "pot-app",
+      "recognize",
+      "tauri",
+      "translate",
+      "translation",
+      "tts",
+      "windows"
+    ],
+    "language": "JavaScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "source": "starred",
+    "category": "机器学习",
+    "summary": "用PyTorch逐步从零实现类ChatGPT大语言模型",
+    "tags": [
+      "LLM",
+      "PyTorch",
+      "Transformer",
+      "ChatGPT",
+      "教程"
+    ],
+    "notes": "",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "language": "Jupyter Notebook",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "sansan0/TrendRadar",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "source": "starred",
+    "category": "舆情监控",
+    "summary": "AI驱动的多平台舆情与热点监控助手",
+    "tags": [
+      "AI",
+      "RSS",
+      "舆情监控",
+      "热点追踪",
+      "Docker"
+    ],
+    "notes": "",
+    "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "saturndec/waoowaoo",
+    "url": "https://github.com/saturndec/waoowaoo",
+    "source": "starred",
+    "category": "AI影视",
+    "summary": "工业级 AI 影视生产平台，支持分镜生成与视频制作",
+    "tags": [
+      "AI Agent",
+      "影视制作",
+      "视频生成",
+      "分镜",
+      "生成式AI"
+    ],
+    "notes": "",
+    "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "film-production",
+      "generative-ai",
+      "short-drama",
+      "storyboard",
+      "video-generation"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "ssloy/tinyrenderer",
+    "url": "https://github.com/ssloy/tinyrenderer",
+    "source": "starred",
+    "category": "图形学",
+    "summary": "用500行C++讲解软件渲染与3D图形学课程",
+    "tags": [
+      "C++",
+      "计算机图形学",
+      "软件渲染",
+      "3D",
+      "教程"
+    ],
+    "notes": "",
+    "description": "A brief computer graphics / rendering course",
+    "topics": [
+      "3d",
+      "3d-graphics",
+      "c-plus-plus",
+      "computer-graphics",
+      "cpp",
+      "engine",
+      "fun",
+      "graphics",
+      "images",
+      "learning",
+      "opengl",
+      "picture",
+      "pixels",
+      "rasterizer",
+      "rendering",
+      "rendering-engine",
+      "rendering-pipeline",
+      "shaders",
+      "software-rendering",
+      "tutorial"
+    ],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "source": "starred",
+    "category": "命令行工具",
+    "summary": "适用于任意 Shell 的极简高速可定制提示符",
+    "tags": [
+      "shell-prompt",
+      "zsh",
+      "bash",
+      "fish",
+      "rust"
+    ],
+    "notes": "",
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "topics": [
+      "bash",
+      "fish",
+      "fish-prompt",
+      "fish-theme",
+      "oh-my-zsh",
+      "powershell",
+      "rust",
+      "shell-prompt",
+      "starship",
+      "zsh",
+      "zsh-prompt",
+      "zsh-theme"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "tangshimin/MuJing",
+    "url": "https://github.com/tangshimin/MuJing",
+    "source": "starred",
+    "category": "语言学习",
+    "summary": "通过影视与文档真实语境学习英语单词的应用",
+    "tags": [
+      "英语学习",
+      "背单词",
+      "视频字幕",
+      "Kotlin Multiplatform",
+      "Compose Desktop"
+    ],
+    "notes": "",
+    "description": "一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。",
+    "topics": [
+      "chinese",
+      "compose-desktop",
+      "english-learning",
+      "kotlin-multiplatform"
+    ],
+    "language": "Kotlin",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "source": "starred",
+    "category": "应用框架",
+    "summary": "基于 Rust 和 WebView 的跨平台桌面移动应用框架",
+    "tags": [
+      "Rust",
+      "桌面应用",
+      "移动应用",
+      "WebView",
+      "跨平台"
+    ],
+    "notes": "",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "topics": [
+      "desktop-app",
+      "high-performance",
+      "mobile-app",
+      "native-app",
+      "rust",
+      "web-frontend",
+      "webview"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "starred",
+    "category": "知识管理",
+    "summary": "开源本地优先的知识库与白板协作平台",
+    "tags": [
+      "知识库",
+      "笔记",
+      "白板",
+      "协作",
+      "Notion替代"
+    ],
+    "notes": "",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "topics": [
+      "app",
+      "crdt",
+      "editor",
+      "electron",
+      "knowledge-base",
+      "markdown",
+      "miro",
+      "notes",
+      "notion",
+      "notion-alternative",
+      "rust",
+      "rust-lang",
+      "rust-language",
+      "table",
+      "tableview",
+      "whiteboard",
+      "wiki",
+      "workspace"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "tuyoogame/YooAsset",
+    "url": "https://github.com/tuyoogame/YooAsset",
+    "source": "starred",
+    "category": "Unity",
+    "summary": "Unity3D 游戏资源管理与热更新系统",
+    "tags": [
+      "Unity3D",
+      "资源管理",
+      "热更新",
+      "AssetBundle",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "unity3d resources management  system",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "一键将网页打包为跨平台桌面应用的工具",
+    "tags": [
+      "桌面应用",
+      "Tauri",
+      "Rust",
+      "网页打包",
+      "跨平台"
+    ],
+    "notes": "",
+    "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+    "topics": [
+      "chatgpt",
+      "claude",
+      "desktop",
+      "gemini",
+      "hight-performance",
+      "linux",
+      "macos",
+      "no-electron",
+      "package",
+      "rust",
+      "tauri",
+      "windows",
+      "youtube"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "基于 Rust 的 claw CLI 代理工具实现",
+    "tags": [
+      "Rust",
+      "CLI",
+      "AI代理",
+      "命令行工具",
+      "Agent"
+    ],
+    "notes": "",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "topics": [],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "uluckyXH/OpenMOSS",
+    "url": "https://github.com/uluckyXH/OpenMOSS",
+    "source": "starred",
+    "category": "AI智能体",
+    "summary": "面向OpenClaw的多智能体自组织协作平台",
+    "tags": [
+      "多智能体",
+      "自动化工作流",
+      "OpenClaw",
+      "协作平台",
+      "FastAPI"
+    ],
+    "notes": "",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "source": "starred",
+    "category": "爬虫",
+    "summary": "面向LLM的开源网页爬虫与内容抓取工具",
+    "tags": [
+      "网页爬虫",
+      "数据抓取",
+      "LLM",
+      "Markdown",
+      "RAG"
+    ],
+    "notes": "",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "topics": [],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "vovgou/loxodon-framework",
+    "url": "https://github.com/vovgou/loxodon-framework",
+    "source": "starred",
+    "category": "游戏开发",
+    "summary": "适用于Unity的轻量级MVVM与数据绑定框架",
+    "tags": [
+      "Unity",
+      "MVVM",
+      "数据绑定",
+      "C#",
+      "Lua"
+    ],
+    "notes": "",
+    "description": "An MVVM & Databinding framework that can use C# and Lua to develop games",
+    "topics": [
+      "mvvm",
+      "unity",
+      "unity-mvvm"
+    ],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "wavetermdev/waveterm",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "source": "starred",
+    "category": "终端工具",
+    "summary": "开源跨平台AI终端，支持SSH与远程文件编辑",
+    "tags": [
+      "终端",
+      "AI",
+      "跨平台",
+      "SSH",
+      "开发者工具"
+    ],
+    "notes": "",
+    "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+    "topics": [
+      "command-line",
+      "developer-tools",
+      "linux",
+      "macos",
+      "productivity",
+      "terminal",
+      "terminal-emulators",
+      "windows"
+    ],
+    "language": "Go",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "x-cmd/x-cmd",
+    "url": "https://github.com/x-cmd/x-cmd",
+    "source": "starred",
+    "category": "CLI工具",
+    "summary": "面向 AI Agent 的增强型 Shell 工具箱",
+    "tags": [
+      "AI",
+      "Agent",
+      "Shell",
+      "CLI",
+      "Bash"
+    ],
+    "notes": "",
+    "description": "Shell Superpowers for AI Agents.",
+    "topics": [
+      "agent",
+      "ai",
+      "bash",
+      "cli",
+      "cloud",
+      "shell",
+      "zsh"
+    ],
+    "language": "Awk",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source": "starred",
+    "category": "提示词工程",
+    "summary": "收录多款 AI 工具的系统提示词与模型信息",
+    "tags": [
+      "ai",
+      "system-prompts",
+      "open-source",
+      "cursor",
+      "copilot"
+    ],
+    "notes": "",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "topics": [
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot",
+      "lovable",
+      "open-source",
+      "perplexity",
+      "replit",
+      "system-prompts",
+      "trae",
+      "trae-ai",
+      "trae-ide",
+      "v0",
+      "vscode",
+      "windsurf",
+      "windsurf-ai"
+    ],
+    "language": "",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "xpipe-io/xpipe",
+    "url": "https://github.com/xpipe-io/xpipe",
+    "source": "starred",
+    "category": "运维工具",
+    "summary": "本地桌面统一管理服务器与容器连接的枢纽",
+    "tags": [
+      "SSH",
+      "Docker",
+      "Kubernetes",
+      "远程管理",
+      "容器管理"
+    ],
+    "notes": "",
+    "description": "Access your entire server infrastructure from your local desktop",
+    "topics": [
+      "bash",
+      "docker",
+      "filemanager",
+      "files",
+      "incus",
+      "java",
+      "javafx",
+      "k8s",
+      "kubernetes",
+      "lxd",
+      "networking",
+      "podman",
+      "sftp",
+      "ssh",
+      "tailscale",
+      "wsl"
+    ],
+    "language": "Java",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "yamadashy/repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "source": "starred",
+    "category": "开发工具",
+    "summary": "将整个代码仓库打包为适合AI处理的单文件工具",
+    "tags": [
+      "AI",
+      "LLM",
+      "代码打包",
+      "Node.js",
+      "TypeScript"
+    ],
+    "notes": "",
+    "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "developer-tools",
+      "gemini",
+      "genai",
+      "generative-ai",
+      "gpt",
+      "javascript",
+      "language-model",
+      "llama",
+      "llm",
+      "mcp",
+      "nodejs",
+      "openai",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "yasirkula/UnityNativeGallery",
+    "url": "https://github.com/yasirkula/UnityNativeGallery",
+    "source": "starred",
+    "category": "Unity插件",
+    "summary": "Unity 原生插件，支持安卓和 iOS 相册读写",
+    "tags": [
+      "Unity",
+      "Android",
+      "iOS",
+      "相册",
+      "多媒体"
+    ],
+    "notes": "",
+    "description": "A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)",
+    "topics": [],
+    "language": "Objective-C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "yasirkula/UnityRuntimeInspector",
+    "url": "https://github.com/yasirkula/UnityRuntimeInspector",
+    "source": "starred",
+    "category": "Unity插件",
+    "summary": "Unity 运行时检查器与层级调试编辑插件",
+    "tags": [
+      "Unity",
+      "运行时调试",
+      "Inspector",
+      "Hierarchy",
+      "游戏开发"
+    ],
+    "notes": "",
+    "description": "Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes",
+    "topics": [],
+    "language": "C#",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "yimengfan/BDFramework.Core",
+    "url": "https://github.com/yimengfan/BDFramework.Core",
+    "source": "starred",
+    "category": "游戏框架",
+    "summary": "面向商业项目的 Unity3D 游戏开发工作流框架",
+    "tags": [
+      "Unity",
+      "Unity3D",
+      "游戏框架",
+      "热更新",
+      "ILRuntime"
+    ],
+    "notes": "",
+    "description": "Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。",
+    "topics": [
+      "csharpgame",
+      "framework",
+      "game",
+      "gameframe",
+      "hotfix",
+      "hotupdate",
+      "ilr",
+      "ilruntime",
+      "u3d",
+      "unity",
+      "unity-framework",
+      "unity2d",
+      "unity3d",
+      "unity3d-framework",
+      "unity3d-game-workflow",
+      "unity3d-games",
+      "unity3d-hotfix"
+    ],
+    "language": "C++",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "source": "starred",
+    "category": "下载工具",
+    "summary": "功能丰富的命令行音视频下载工具",
+    "tags": [
+      "cli",
+      "python",
+      "downloader",
+      "音视频下载",
+      "yt-dlp"
+    ],
+    "notes": "",
+    "description": "A feature-rich command-line audio/video downloader",
+    "topics": [
+      "cli",
+      "downloader",
+      "python",
+      "sponsorblock",
+      "youtube-dl",
+      "youtube-downloader",
+      "yt-dlp"
+    ],
+    "language": "Python",
+    "synced_at": "2026-04-07T09:54:31Z"
+  },
+  {
+    "full_name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "source": "starred",
+    "category": "编辑器",
+    "summary": "高性能多人协作代码编辑器Zed",
+    "tags": [
+      "Rust",
+      "代码编辑器",
+      "多人协作",
+      "gpui",
+      "Zed"
+    ],
+    "notes": "",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "topics": [
+      "gpui",
+      "rust-lang",
+      "text-editor",
+      "zed"
+    ],
+    "language": "Rust",
+    "synced_at": "2026-04-07T09:54:31Z"
+  }
+]
