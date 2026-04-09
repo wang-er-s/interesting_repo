@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 139 个仓库。
+共收录 142 个仓库。
 
 ## 目录
 
@@ -56,6 +56,7 @@
 - [下载工具](#下载工具)
 - [代码审查](#代码审查)
 - [代码编辑器](#代码编辑器)
+- [低代码平台](#低代码平台)
 - [包管理工具](#包管理工具)
 - [即时通讯](#即时通讯)
 - [后端框架](#后端框架)
@@ -79,6 +80,7 @@
 - [搜索服务](#搜索服务)
 - [教程合集](#教程合集)
 - [教程示例](#教程示例)
+- [教育规划](#教育规划)
 - [教育资源](#教育资源)
 - [数据备份](#数据备份)
 - [文档转换](#文档转换)
@@ -196,6 +198,7 @@
 
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
+- [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
 
 
 ## AI框架
@@ -236,7 +239,7 @@
 
 ## CLI工具
 
-- [opencli](https://github.com/jackwener/opencli) 将网站、应用和本地工具统一为AI可调用CLI
+- [OpenCLI](https://github.com/jackwener/OpenCLI) 将网站、桌面应用和本地工具统一封装为CLI
 - [claw-code](https://github.com/ultraworkers/claw-code) 基于 Rust 的 Claw CLI 代理工具公开实现
 - [x-cmd](https://github.com/x-cmd/x-cmd) 面向 AI 代理的轻量级 Shell 增强工具箱
 
@@ -397,6 +400,11 @@
 - [zed](https://github.com/zed-industries/zed) 高性能多人协作代码编辑器Zed
 
 
+## 低代码平台
+
+- [windmill](https://github.com/windmill-labs/windmill) 开源低代码开发平台，可将脚本转为工作流与内部应用
+
+
 ## 包管理工具
 
 - [UniGetUI](https://github.com/Devolutions/UniGetUI) Windows 多包管理器的统一图形管理界面
@@ -512,6 +520,11 @@
 ## 教程示例
 
 - [codelabs](https://github.com/flutter/codelabs) Flutter 官方示例教程代码合集仓库
+
+
+## 教育规划
+
+- [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) 张雪峰升学与职业规划思维框架技能库
 
 
 ## 教育资源
