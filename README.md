@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 142 个仓库。
+共收录 146 个仓库。
 
 ## 目录
 
@@ -55,6 +55,7 @@
 - [Web框架](#Web框架)
 - [下载工具](#下载工具)
 - [代码审查](#代码审查)
+- [代码智能](#代码智能)
 - [代码编辑器](#代码编辑器)
 - [低代码平台](#低代码平台)
 - [包管理工具](#包管理工具)
@@ -169,6 +170,7 @@
 ## AI开发工具
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向AI编程助手的规范驱动开发框架
+- [Pensieve](https://github.com/kingkongshot/Pensieve) 为 AI 代理提供可自增长的项目记忆与决策知识库
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
 - [CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) 连接 AI IDE 与腾讯云开发的一键部署 MCP 工具
 
@@ -199,6 +201,7 @@
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
 
 
 ## AI框架
@@ -395,6 +398,11 @@
 - [code-review-skill](https://github.com/killop/code-review-skill) 面向通用工程的自动化代码审查与作者追溯技能
 
 
+## 代码智能
+
+- [codedb](https://github.com/justrach/codedb) 面向AI代理的Zig代码智能服务器与MCP工具集
+
+
 ## 代码编辑器
 
 - [zed](https://github.com/zed-industries/zed) 高性能多人协作代码编辑器Zed
@@ -474,6 +482,7 @@
 
 ## 开发工具
 
+- [ContextAtlas](https://github.com/codefromkarl/ContextAtlas) 面向AI编程代理的代码检索与项目记忆基础设施
 - [repomix](https://github.com/yamadashy/repomix) 将整个代码仓库打包为适合AI处理的单文件工具
 
 
