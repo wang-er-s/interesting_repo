@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 147 个仓库。
+共收录 149 个仓库。
 
 ## 目录
 
@@ -33,6 +33,7 @@
 - [MCP工具](#MCP工具)
 - [MCP服务器](#MCP服务器)
 - [Neovim插件](#Neovim插件)
+- [Obsidian插件](#Obsidian插件)
 - [OCR](#OCR)
 - [Prompt资源](#Prompt资源)
 - [RAG框架](#RAG框架)
@@ -85,6 +86,7 @@
 - [教育规划](#教育规划)
 - [教育资源](#教育资源)
 - [数据备份](#数据备份)
+- [文档处理](#文档处理)
 - [文档转换](#文档转换)
 - [服务器管理](#服务器管理)
 - [桌面开发框架](#桌面开发框架)
@@ -277,6 +279,11 @@
 ## Neovim插件
 
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向AI代理与Neovim的高速文件搜索工具
+
+
+## Obsidian插件
+
+- [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) 将 Claude、Codex 等 AI 代理接入 Obsidian
 
 
 ## OCR
@@ -550,6 +557,11 @@
 ## 数据备份
 
 - [cloudbak](https://github.com/likeflyme/cloudbak) 微信聊天记录云备份与Web访问工具
+
+
+## 文档处理
+
+- [marker](https://github.com/datalab-to/marker) 高精度文档解析工具，支持转Markdown和JSON
 
 
 ## 文档转换
