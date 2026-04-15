@@ -1,9 +1,10 @@
 # GitHub 仓库收藏索引
 
-共收录 149 个仓库。
+共收录 151 个仓库。
 
 ## 目录
 
+- [Agent技能优化](#Agent技能优化)
 - [AI](#AI)
 - [AIAgent工具](#AIAgent工具)
 - [AIAgent平台](#AIAgent平台)
@@ -24,6 +25,7 @@
 - [AI绘画](#AI绘画)
 - [AI编程工具](#AI编程工具)
 - [AI聊天应用](#AI聊天应用)
+- [AI记忆系统](#AI记忆系统)
 - [AI集成](#AI集成)
 - [C#库](#C#库)
 - [CLI工具](#CLI工具)
@@ -123,6 +125,11 @@
 - [跨平台开发框架](#跨平台开发框架)
 
 ## 仓库列表
+
+## Agent技能优化
+
+- [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
+
 
 ## AI
 
@@ -231,6 +238,11 @@
 ## AI聊天应用
 
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的跨平台 AI 聊天助手，支持多模型
+
+
+## AI记忆系统
+
+- [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 
 
 ## AI集成
