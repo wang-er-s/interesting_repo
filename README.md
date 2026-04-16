@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 151 个仓库。
+共收录 153 个仓库。
 
 ## 目录
 
@@ -60,6 +60,7 @@
 - [代码审查](#代码审查)
 - [代码智能](#代码智能)
 - [代码编辑器](#代码编辑器)
+- [仪表盘](#仪表盘)
 - [低代码平台](#低代码平台)
 - [包管理工具](#包管理工具)
 - [即时通讯](#即时通讯)
@@ -97,6 +98,7 @@
 - [游戏引擎](#游戏引擎)
 - [游戏框架](#游戏框架)
 - [爬虫工具](#爬虫工具)
+- [生成式AI](#生成式AI)
 - [电子书工具](#电子书工具)
 - [电子书阅读器](#电子书阅读器)
 - [知识管理](#知识管理)
@@ -428,6 +430,11 @@
 - [zed](https://github.com/zed-industries/zed) 高性能多人协作代码编辑器Zed
 
 
+## 仪表盘
+
+- [glance](https://github.com/glanceapp/glance) 自托管聚合仪表盘，集中展示RSS等多源信息
+
+
 ## 低代码平台
 
 - [windmill](https://github.com/windmill-labs/windmill) 开源低代码开发平台，可将脚本转为工作流与内部应用
@@ -615,6 +622,11 @@
 ## 爬虫工具
 
 - [crawl4ai](https://github.com/unclecode/crawl4ai) 面向LLM的数据抓取与网页爬虫框架
+
+
+## 生成式AI
+
+- [OmniLottie](https://github.com/OpenVGLab/OmniLottie) 多模态指令驱动的Lottie矢量动画生成模型
 
 
 ## 电子书工具
