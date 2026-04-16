@@ -20,6 +20,8 @@ README_FILE = ROOT / "README.md"
 GITHUB_API = "https://api.github.com"
 README_MAX_CHARS = 10000
 ENV_FILE = ROOT / ".env"
+CATEGORY_SEPARATOR = " / "
+DEFAULT_CATEGORY = "未分类 / 其他"
 
 
 def log(message: str) -> None:
@@ -45,6 +47,19 @@ def load_dotenv_file(path: Path) -> None:
             value = value[1:-1]
 
         os.environ[key] = value
+
+
+def split_category_parts(category: str) -> list[str]:
+    return [part.strip() for part in str(category).replace("／", "/").split("/") if part.strip()]
+
+
+def normalize_category(category: str) -> str:
+    parts = split_category_parts(category)
+    if not parts:
+        return ""
+    if len(parts) == 1:
+        return parts[0]
+    return f"{parts[0]}{CATEGORY_SEPARATOR}{' / '.join(parts[1:])}"
 
 
 def load_json_file(path: Path, default: Any) -> Any:
@@ -137,7 +152,7 @@ def load_custom_repositories() -> list[dict[str, Any]]:
         normalized_items.append(
             {
                 "repo": normalize_repo_name(str(item["repo"])),
-                "category": item.get("category", ""),
+                "category": normalize_category(str(item.get("category", "")).strip()),
                 "tags": item.get("tags", []),
                 "notes": item.get("notes", ""),
             }
@@ -182,23 +197,49 @@ def build_prompt_source(repo: dict[str, Any], readme_text: str, custom_notes: st
 
 def infer_category(repo: dict[str, Any], combined_text: str, custom_category: str) -> str:
     if custom_category:
-        return custom_category
+        return normalize_category(custom_category)
 
     text = combined_text.lower()
     topics = [topic.lower() for topic in repo.get("topics") or []]
 
-    keyword_map = {
-        "AI": ["llm", "agent", "rag", "ai", "machine learning", "langchain", "autogen"],
-        "前端": ["frontend", "react", "next.js", "vue", "ui", "css", "vite"],
-        "后端": ["backend", "api", "server", "fastapi", "django", "flask", "spring"],
-        "工具": ["cli", "tool", "productivity", "automation", "workflow", "devtools"],
-        "数据": ["data", "database", "etl", "analytics", "sql", "warehouse"],
-    }
+    keyword_map = [
+        ("AI / Agent 智能体", ["agentic", "multi-agent", "ai agent", "agent", "autogen"]),
+        ("AI / LLM 开发框架", ["llm framework", "llm", "rag", "langchain", "semantic kernel", "workflow"]),
+        ("AI / 助手/聊天", ["assistant", "chatbot", "chat", "copilot"]),
+        ("AI / 图像生成", ["image generation", "text2image", "image2image", "diffusion", "stable diffusion"]),
+        ("AI / 视频/字幕", ["subtitle", "caption", "dubbing", "video translation"]),
+        ("AI / 学习与提示词", ["prompt", "cookbook", "tutorial", "course", "guide"]),
+        ("AI / 集成/平台", ["mcp", "integration", "platform", "gateway", "context engineering"]),
+        ("Unity / 插件", ["unity plugin", "unitypackage", "upm"]),
+        ("Unity / 框架", ["unity framework", "mvvm", "data binding", "gas"]),
+        ("Unity / 资源管理", ["assetbundle", "addressables", "resource management", "hot update"]),
+        ("Unity / 工具", ["unity", "unity3d", "editor tool", "toolchain"]),
+        ("开发工具 / CLI 工具", ["cli", "terminal", "shell", "command line"]),
+        ("开发工具 / 代码编辑器", ["editor", "ide", "neovim", "vscode"]),
+        ("开发工具 / 代码处理", ["code review", "search", "parser", "repo", "linter", "formatter"]),
+        ("应用框架 / 桌面框架", ["tauri", "electron", "desktop framework"]),
+        ("应用框架 / Web 框架", ["web framework", "fastapi", "django", "flask", "spring", "asp.net"]),
+        ("应用框架 / 游戏框架", ["game engine", "gamedev", "game framework"]),
+        ("媒体处理 / 视频处理", ["video", "iptv", "player", "stream"]),
+        ("媒体处理 / 音频处理", ["audio", "speech", "voice", "asr", "tts"]),
+        ("媒体处理 / 图片处理", ["image compression", "image", "ocr"]),
+        ("媒体处理 / 文档转换", ["markdown", "pdf", "document", "epub", "html"]),
+        ("知识管理 / 笔记工具", ["note", "knowledge base", "wiki", "obsidian"]),
+        ("知识管理 / 阅读器", ["reader", "ebook", "rss"]),
+        ("知识管理 / 文档管理", ["document management", "archive", "translation"]),
+        ("教育学习 / 语言学习", ["language learning", "english", "speaking"]),
+        ("教育学习 / 课程资源", ["textbook", "course", "codelab", "tutorial"]),
+        ("教育学习 / 职业指南", ["career", "college", "cook", "guide"]),
+        ("效率工具 / 通讯工具", ["messaging", "chat app", "im", "communication"]),
+        ("效率工具 / 网盘工具", ["cloud drive", "webdav", "backup", "file list"]),
+        ("效率工具 / 自动化工具", ["automation", "workflow", "scheduler"]),
+        ("资源合集", ["awesome", "collection", "curated", "top charts", "best"]),
+    ]
 
-    for category, keywords in keyword_map.items():
+    for category, keywords in keyword_map:
         if any(keyword in text for keyword in keywords) or any(keyword in topics for keyword in keywords):
             return category
-    return "未分类"
+    return DEFAULT_CATEGORY
 
 
 def infer_tags(repo: dict[str, Any], custom_tags: list[Any]) -> list[str]:
@@ -220,6 +261,20 @@ def normalize_string_list(values: list[Any]) -> list[str]:
         if isinstance(value, str) and value.strip() and value.strip() not in normalized:
             normalized.append(value.strip())
     return normalized
+
+
+def build_known_categories(processed_items: list[Any], custom_repos: list[dict[str, Any]]) -> list[str]:
+    categories: list[str] = []
+    for item in processed_items:
+        if isinstance(item, dict):
+            category = normalize_category(str(item.get("category", "")).strip())
+            if category:
+                categories.append(category)
+    for item in custom_repos:
+        category = normalize_category(str(item.get("category", "")).strip())
+        if category:
+            categories.append(category)
+    return normalize_string_list(categories)
 
 
 def infer_summary(repo: dict[str, Any], readme_text: str, custom_notes: str, category: str) -> str:
@@ -274,7 +329,7 @@ def build_cached_entry(
     existing_category = str(existing_item.get("category", "")).strip()
     existing_summary = str(existing_item.get("summary", "")).strip()
     existing_tags = normalize_string_list(existing_item.get("tags", []))
-    custom_category = str(custom_item.get("category", "")).strip()
+    custom_category = normalize_category(str(custom_item.get("category", "")).strip())
     custom_tags = normalize_string_list(custom_item.get("tags", []))
     custom_notes = str(custom_item.get("notes", "")).strip()
     synced_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -283,7 +338,7 @@ def build_cached_entry(
         "full_name": repo["full_name"],
         "url": repo["html_url"],
         "source": merge_source(existing_item.get("source", ""), source),
-        "category": custom_category or existing_category,
+        "category": custom_category or normalize_category(existing_category) or DEFAULT_CATEGORY,
         "summary": custom_notes or existing_summary,
         "tags": custom_tags or existing_tags,
         "notes": custom_notes,
@@ -299,6 +354,7 @@ def build_processed_entry(
     ai_config: dict[str, str] | None,
     repo: dict[str, Any],
     source: str,
+    known_categories: list[str],
     custom_item: dict[str, Any] | None = None,
     existing_item: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
@@ -306,10 +362,10 @@ def build_processed_entry(
     log(f"处理仓库: {repo['full_name']} ({source})")
     readme_text = fetch_repository_readme(token, repo["full_name"])
     prompt_source = build_prompt_source(repo, readme_text, str(custom_item.get("notes", "")))
-    existing_category = str(existing_item.get("category", "")).strip() if existing_item else ""
+    existing_category = normalize_category(str(existing_item.get("category", "")).strip()) if existing_item else ""
     existing_summary = str(existing_item.get("summary", "")).strip() if existing_item else ""
     existing_tags = normalize_string_list(existing_item.get("tags", [])) if existing_item else []
-    custom_category = str(custom_item.get("category", "")).strip()
+    custom_category = normalize_category(str(custom_item.get("category", "")).strip())
     custom_tags = normalize_string_list(custom_item.get("tags", []))
     category = custom_category or existing_category or infer_category(repo, prompt_source, custom_category)
     tags = custom_tags or existing_tags or infer_tags(repo, custom_tags)
@@ -320,7 +376,7 @@ def build_processed_entry(
         category,
     )
     description = (repo.get("description") or "").strip()
-    allowed_categories = normalize_string_list([custom_category, existing_category])
+    allowed_categories = normalize_string_list([custom_category, existing_category, *known_categories])
     ai_result = None
     if not existing_summary:
         ai_result = generate_ai_summary(
@@ -335,11 +391,12 @@ def build_processed_entry(
         )
     if ai_result:
         category = custom_category or existing_category or ai_result["category"]
-        category = category.replace(" ", "")
+        category = normalize_category(category) or DEFAULT_CATEGORY
         summary = str(custom_item.get("notes", "")).strip() or ai_result["summary"] or summary
     elif ai_config and not existing_summary:
         log(f"AI 生成失败，跳过写入 processed: {repo['full_name']}")
         return {}
+    category = normalize_category(category) or DEFAULT_CATEGORY
     synced_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
     return {
@@ -428,6 +485,7 @@ def main() -> int:
 
     starred_repos = fetch_starred_repositories(token)
     custom_repos = load_custom_repositories()
+    known_categories = build_known_categories(processed_items, custom_repos)
     log(f"已读取 {len(custom_repos)} 条自定义仓库")
 
     combined_repos: dict[str, dict[str, Any]] = {}
@@ -476,11 +534,15 @@ def main() -> int:
                 ai_config=ai_config,
                 repo=payload["repo"],
                 source=payload["source"],
+                known_categories=known_categories,
                 custom_item=payload.get("custom_item"),
                 existing_item=existing_item,
             )
         if entry:
             updated_items.append(entry)
+            entry_category = normalize_category(str(entry.get("category", "")).strip())
+            if entry_category and entry_category not in known_categories:
+                known_categories.append(entry_category)
 
     save_json_file(PROCESSED_FILE, updated_items)
     log(f"已写入 {PROCESSED_FILE.relative_to(ROOT)}")
