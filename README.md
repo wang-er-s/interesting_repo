@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 155 个仓库。
+共收录 161 个仓库。
 
 ## 目录
 
@@ -54,16 +54,19 @@
 
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 面向 Claude Code 等的智能体优化与安全系统
+- [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw) 为 OpenClaw 提供持久记忆插件与配套技能
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
 - [lobehub](https://github.com/lobehub/lobehub) 多智能体协作与AI代理团队构建平台
+- [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
+- [UZI-Skill](https://github.com/wbh604/UZI-Skill) 面向多市场股票深度分析的AI投资技能
 
 ### LLM 开发框架
 
@@ -188,6 +191,7 @@
 - [Blog.Core](https://github.com/anjoy8/Blog.Core) ASP.NET Core企业级RBAC权限后台框架教程
 - [mpflutter](https://github.com/mpflutter/mpflutter) 基于Flutter构建微信小程序与Web的跨平台框架
 - [flask](https://github.com/pallets/flask) 轻量级 Python Web 应用框架 Flask
+- [pocketbase](https://github.com/pocketbase/pocketbase) 单文件开源实时后端，含认证数据库与管理面板
 - [windmill](https://github.com/windmill-labs/windmill) 开源低代码开发平台，可将脚本转为工作流与内部应用
 
 ### 桌面框架
@@ -291,6 +295,7 @@
 
 - [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) Calibre 电子书翻译插件，支持多引擎多格式
 - [so-novel](https://github.com/freeok/so-novel) 网页小说内容提取与导出电子书工具
+- [ai-harness](https://github.com/killop/ai-harness) 用于维护本地知识缓存与刷新脚本的工作区
 - [Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) 《Real-Time Rendering 4th》中文翻译仓库
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) 用500行C++讲解软件渲染与3D图形学课程
 
@@ -316,6 +321,7 @@
 - [Nino](https://github.com/JasonXuDeveloper/Nino) 面向C#与Unity的高性能二进制序列化库
 - [anything_about_game](https://github.com/killop/anything_about_game) 精选游戏开发资源清单，涵盖引擎工具与图形技术
 - [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) 适用于C#与Unity的高性能MessagePack序列化库
+- [weekly](https://github.com/ruanyf/weekly) 阮一峰每周科技内容分享与资源合集
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录热门网站 DESIGN.md 的设计系统清单
 - [ReactiveBinding](https://github.com/XuToWei/ReactiveBinding) 基于 C# Source Generator 的编译期响应式数据绑定系统
 
