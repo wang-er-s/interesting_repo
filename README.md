@@ -70,7 +70,6 @@
 
 ### LLM 开发框架
 
-- [mastra](https://github.com/mastra-ai/mastra) 面向 TypeScript 的 AI 应用与智能体框架
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel) 微软的企业级 LLM 编排 SDK，用于构建智能代理
 - [quivr](https://github.com/QuivrHQ/quivr) 面向应用集成的可定制化 RAG 框架
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) 用PyTorch从零实现并训练类ChatGPT大模型
@@ -93,10 +92,10 @@
 
 - [happy-llm](https://github.com/datawhalechina/happy-llm) 从零讲解并实战构建大语言模型的中文教程
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) 吴恩达大模型课程中文版开发者入门教程
-- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 提升 Claude Code 编码行为的指导规则文件
 - [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) 中文AI与大模型入门指南，含教程、演示与实战
 - [minimind](https://github.com/jingyaogong/minimind) 从零训练小参数GPT的极简LLM教程与链路
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 多端可用的AI提示词优化与评估工具
+- [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 提升 Claude Code 编码行为的规则文件
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt) 精选惊艳AI提示词合集，覆盖创作营销学习等场景
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5) 收录 AI 编码提示词与工作流协议集合
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 收录多款AI工具系统提示词与内部模型资料
@@ -237,6 +236,7 @@
 ### 代码编辑器
 
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) 基于 Tauri 的 AI Markdown 编辑器
+- [orca](https://github.com/stablyai/orca) 面向编码智能体的多代理协同开发 IDE
 - [zed](https://github.com/zed-industries/zed) 高性能多人协作代码编辑器Zed
 
 
