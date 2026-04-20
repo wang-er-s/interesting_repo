@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 161 个仓库。
+共收录 163 个仓库。
 
 ## 目录
 
@@ -58,11 +58,13 @@
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
+- [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
 - [lobehub](https://github.com/lobehub/lobehub) 多智能体协作与AI代理团队构建平台
 - [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
+- [Trellis](https://github.com/mindfold-ai/Trellis) 多平台 AI 编码智能体工作流与任务框架
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
@@ -92,10 +94,10 @@
 
 - [happy-llm](https://github.com/datawhalechina/happy-llm) 从零讲解并实战构建大语言模型的中文教程
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) 吴恩达大模型课程中文版开发者入门教程
+- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 提升 Claude Code 行为的提示词规则文件
 - [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) 中文AI与大模型入门指南，含教程、演示与实战
 - [minimind](https://github.com/jingyaogong/minimind) 从零训练小参数GPT的极简LLM教程与链路
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 多端可用的AI提示词优化与评估工具
-- [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 提升 Claude Code 编码行为的规则文件
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt) 精选惊艳AI提示词合集，覆盖创作营销学习等场景
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5) 收录 AI 编码提示词与工作流协议集合
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 收录多款AI工具系统提示词与内部模型资料
