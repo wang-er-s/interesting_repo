@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 163 个仓库。
+共收录 164 个仓库。
 
 ## 目录
 
@@ -65,6 +65,7 @@
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
 - [Trellis](https://github.com/mindfold-ai/Trellis) 多平台 AI 编码智能体工作流与任务框架
+- [hive](https://github.com/morapelker/hive) AI 编码智能体与 Git Worktree 并行管理器
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台

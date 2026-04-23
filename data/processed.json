@@ -10,7 +10,7 @@
     "description": "中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
     "topics": [],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "1Panel-dev/MaxKB",
@@ -47,7 +47,7 @@
       "rag"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "521xueweihan/HelloGitHub",
@@ -70,7 +70,7 @@
       "python"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AGI-is-going-to-arrive/Memory-Palace-Openclaw",
@@ -83,7 +83,7 @@
     "description": "",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AIDotNet/OpenDeepWiki",
@@ -106,7 +106,7 @@
       "fine-tuning"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
@@ -145,7 +145,7 @@
       "web"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AlistGo/alist",
@@ -172,7 +172,7 @@
       "webdav"
     ],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Anduin2017/HowToCook",
@@ -197,7 +197,7 @@
       "recipes"
     ],
     "language": "Dockerfile",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Anxcye/anx-reader",
@@ -218,7 +218,7 @@
       "flutter"
     ],
     "language": "Dart",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Arenukvern/mcp_flutter",
@@ -245,7 +245,7 @@
       "mcp-server"
     ],
     "language": "Dart",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AssetRipper/AssetRipper",
@@ -272,7 +272,7 @@
       "unity3d"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "AstrBotDevs/AstrBot",
@@ -311,7 +311,7 @@
       "telegram"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Besty0728/Unity-Skills",
@@ -345,7 +345,7 @@
       "unity3d"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "ChatGPTNextWeb/NextChat",
@@ -387,7 +387,7 @@
       "webui"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "CoplayDev/unity-mcp",
@@ -426,7 +426,7 @@
       "videogames"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Deepractice/PromptX",
@@ -439,7 +439,7 @@
     "description": "PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform",
     "topics": [],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Devolutions/UniGetUI",
@@ -474,7 +474,7 @@
       "winget"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Fission-AI/OpenSpec",
@@ -507,7 +507,7 @@
       "specification"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "FlowiseAI/Flowise",
@@ -547,7 +547,7 @@
       "workflow-automation"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -560,7 +560,7 @@
     "description": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "topics": [],
     "language": "Java",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Guovin/iptv-api",
@@ -603,7 +603,7 @@
       "tvbox"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "HKUDS/DeepTutor",
@@ -635,7 +635,7 @@
       "rag"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Hoper-J/AI-Guide-and-Demos-zh_CN",
@@ -648,7 +648,7 @@
     "description": "这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "HuLaSpark/HuLa",
@@ -684,7 +684,7 @@
       "windows-11"
     ],
     "language": "Vue",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Huanshere/VideoLingo",
@@ -709,7 +709,7 @@
       "voice-cloning"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "InkTimeRecord/TTime",
@@ -742,7 +742,7 @@
       "windows"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "IvanMurzak/Unity-MCP",
@@ -784,7 +784,7 @@
       "windsurf"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "JasonXuDeveloper/Nino",
@@ -813,7 +813,7 @@
       "unity"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "JefferyHcool/BiliNote",
@@ -826,7 +826,7 @@
     "description": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "LiShengYang-yiyi/YIUI",
@@ -853,7 +853,7 @@
       "yiui"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "LibreSpark/LibreTV",
@@ -878,7 +878,7 @@
       "tv"
     ],
     "language": "JavaScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "LucklySpace/Lucky-client",
@@ -912,7 +912,7 @@
       "webrtc"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Lymphatus/caesium-image-compressor",
@@ -943,7 +943,7 @@
       "windows"
     ],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "MemPalace/mempalace",
@@ -970,7 +970,7 @@
       "python"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "MemTensor/skills-vote",
@@ -993,7 +993,7 @@
       "llm-agent"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "MessagePack-CSharp/MessagePack-CSharp",
@@ -1024,7 +1024,7 @@
       "xamarin"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Morakito/Real-Time-Rendering-4th-CN",
@@ -1037,7 +1037,7 @@
     "description": "《Real-Time Rendering 4th》 (RTR4) 中文翻译",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "NeekChaw/RIPER-5",
@@ -1050,7 +1050,7 @@
     "description": "神级Cursor Rule",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "NeekChaw/awesome-prompt",
@@ -1063,7 +1063,7 @@
     "description": "让你一眼惊艳的prompt",
     "topics": [],
     "language": "GCC Machine Description",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "No78Vino/gameplay-ability-system-for-unity",
@@ -1090,7 +1090,7 @@
       "unity3d"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "NousResearch/hermes-agent",
@@ -1129,7 +1129,7 @@
       "openclaw"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "OpenVGLab/OmniLottie",
@@ -1158,7 +1158,7 @@
       "vlm"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Orenoid/BabelDuck",
@@ -1189,7 +1189,7 @@
       "speech"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Panniantong/Agent-Reach",
@@ -1229,7 +1229,7 @@
       "youtube-transcript"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "PicoTrex/Awesome-Nano-Banana-images",
@@ -1250,7 +1250,7 @@
       "nano-banana"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "ProwlEngine/Prowl",
@@ -1288,7 +1288,7 @@
       "vulkan"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "QuivrHQ/quivr",
@@ -1331,7 +1331,7 @@
       "vector"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "RAIT-09/obsidian-agent-client",
@@ -1360,7 +1360,7 @@
       "opencode"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "RSSNext/Folo",
@@ -1385,7 +1385,7 @@
       "rsshub"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "StarrDream/HTML-to-UGUI-Baker",
@@ -1398,7 +1398,7 @@
     "description": "HTML原型转Unity UGUI",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "SuperClaude-Org/SuperClaude_Framework",
@@ -1411,7 +1411,7 @@
     "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "THU-MAIC/OpenMAIC",
@@ -1424,7 +1424,7 @@
     "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
     "topics": [],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "TapXWorld/ChinaTextbook",
@@ -1437,7 +1437,7 @@
     "description": "所有小初高、大学PDF教材。",
     "topics": [],
     "language": "Roff",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "TencentCloudBase/CloudBase-MCP",
@@ -1471,7 +1471,7 @@
       "web"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "The-Pocket/PocketFlow",
@@ -1514,7 +1514,7 @@
       "workflow-orchestration"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
@@ -1545,7 +1545,7 @@
       "vibe-design"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "WEIFENG2333/VideoCaptioner",
@@ -1568,7 +1568,7 @@
       "video-subtile"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "XH-Unity/XHFrameworkSkill",
@@ -1581,7 +1581,7 @@
     "description": "",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "XINCGer/UnityToolchainsTrick",
@@ -1594,7 +1594,7 @@
     "description": "提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "XiaomingX/indie-hacker-tools-plus",
@@ -1631,7 +1631,7 @@
       "shadcn"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "XuToWei/ReactiveBinding",
@@ -1644,7 +1644,7 @@
     "description": "A compile-time reactive data binding system using C# Source Generator.",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Y2Z/monolith",
@@ -1675,7 +1675,7 @@
       "tab-rehab"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "YILING0013/AI_NovelGenerator",
@@ -1688,7 +1688,7 @@
     "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "YaoFANGUK/video-subtitle-remover",
@@ -1713,7 +1713,7 @@
       "vsr"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "Yuliang-Liu/MonkeyOCR",
@@ -1726,7 +1726,7 @@
     "description": "A lightweight LMM-based Document Parsing Model",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "affaan-m/everything-claude-code",
@@ -1757,7 +1757,7 @@
       "productivity"
     ],
     "language": "JavaScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "aingdesk/AingDesk",
@@ -1784,7 +1784,7 @@
       "ollama"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "alchaincyf/darwin-skill",
@@ -1797,7 +1797,7 @@
     "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
     "topics": [],
     "language": "HTML",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "alchaincyf/zhangxuefeng-skill",
@@ -1810,7 +1810,7 @@
     "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "alphacep/vosk-api",
@@ -1853,7 +1853,7 @@
       "vosk"
     ],
     "language": "Jupyter Notebook",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "anjoy8/Blog.Core",
@@ -1896,7 +1896,7 @@
       "t4"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "blinkospace/blinko",
@@ -1927,7 +1927,7 @@
       "self-hosted"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "bookfere/Ebook-Translator-Calibre-Plugin",
@@ -1960,7 +1960,7 @@
       "translator"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "boxqkrtm/com.unity.ide.cursor",
@@ -1973,7 +1973,7 @@
     "description": "Code editor integration for supporting Cursor as code editor for unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, etc. 📦 [Mirrored from UPM, not affiliated with Unity Technologies.]",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "byoungd/English-level-up-tips",
@@ -1994,7 +1994,7 @@
       "tutorial"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "chatboxai/chatbox",
@@ -2028,7 +2028,7 @@
       "openai"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "chclt/oh-my-wechat",
@@ -2041,7 +2041,7 @@
     "description": "微信备份阅读器",
     "topics": [],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "chenhg5/cc-connect",
@@ -2054,7 +2054,7 @@
     "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
     "topics": [],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "clawdotnet/openclaw.net",
@@ -2096,7 +2096,7 @@
       "tool-execution"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
@@ -2123,7 +2123,7 @@
       "tutorials"
     ],
     "language": "Markdown",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "codefromkarl/ContextAtlas",
@@ -2166,7 +2166,7 @@
       "vector-database"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "coder2gwy/coder2gwy",
@@ -2179,7 +2179,7 @@
     "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "crashkonijn/GOAP",
@@ -2192,7 +2192,7 @@
     "description": "A multi-threaded GOAP system for Unity",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "cyfyifanchen/one-person-company",
@@ -2215,7 +2215,7 @@
       "tools"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "datalab-to/marker",
@@ -2228,7 +2228,7 @@
     "description": "Convert PDF to markdown + JSON quickly with high accuracy",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "datawhalechina/happy-llm",
@@ -2249,7 +2249,7 @@
       "rag"
     ],
     "language": "Jupyter Notebook",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "datawhalechina/llm-cookbook",
@@ -2268,7 +2268,7 @@
       "llm"
     ],
     "language": "Jupyter Notebook",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "dmtrKovalenko/fff.nvim",
@@ -2293,7 +2293,7 @@
       "rust"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "drl990114/MarkFlowy",
@@ -2331,7 +2331,7 @@
       "windows-app"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "dromara/electron-egg",
@@ -2354,7 +2354,7 @@
       "nodejs"
     ],
     "language": "JavaScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "egametang/ET",
@@ -2390,7 +2390,7 @@
       "web3"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "fish2018/pansou",
@@ -2403,7 +2403,7 @@
     "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/",
     "topics": [],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "flutter/codelabs",
@@ -2416,7 +2416,7 @@
     "description": "Flutter codelab examples",
     "topics": [],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "focus-creative-games/hybridclr",
@@ -2450,7 +2450,7 @@
       "update"
     ],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "focus-creative-games/obfuz",
@@ -2479,7 +2479,7 @@
       "unity"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "forrestchang/andrej-karpathy-skills",
@@ -2492,7 +2492,7 @@
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "freeok/so-novel",
@@ -2521,7 +2521,7 @@
       "tui"
     ],
     "language": "Java",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "gkd-kit/gkd",
@@ -2554,7 +2554,7 @@
       "webassembly"
     ],
     "language": "Kotlin",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "glanceapp/glance",
@@ -2591,7 +2591,7 @@
       "youtube"
     ],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "hackerzhuli/unity-code",
@@ -2614,7 +2614,7 @@
       "windsurf"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
@@ -2655,7 +2655,7 @@
       "webcamera"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "handzlikchris/FastScriptReload",
@@ -2676,7 +2676,7 @@
       "unity3d"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "hzlzh/Best-App",
@@ -2697,7 +2697,7 @@
       "macos"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "iOfficeAI/AionUi",
@@ -2739,7 +2739,7 @@
       "webui"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "jackwener/OpenCLI",
@@ -2762,7 +2762,7 @@
       "cli"
     ],
     "language": "JavaScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "jgm/pandoc",
@@ -2794,7 +2794,7 @@
       "publishing"
     ],
     "language": "Haskell",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "jingyaogong/minimind",
@@ -2813,7 +2813,7 @@
       "large-language-model"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "justrach/codedb",
@@ -2844,7 +2844,7 @@
       "zig"
     ],
     "language": "Zig",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "killop/ai-harness",
@@ -2859,7 +2859,7 @@
       "memory-management"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "killop/anything_about_game",
@@ -2899,7 +2899,7 @@
       "unity-ecs"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "killop/code-review-skill",
@@ -2912,7 +2912,7 @@
     "description": "",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "kingkongshot/Pensieve",
@@ -2925,7 +2925,7 @@
     "description": "tore your decisions and principles. Claude reads them to make better choices.",
     "topics": [],
     "language": "Shell",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "kuronekoyang/ReflectionTool",
@@ -2938,7 +2938,7 @@
     "description": "C# Reflection Wrapper Generation & Method Hooking Tools For Unity",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "labbbirder/UnityVue",
@@ -2951,7 +2951,7 @@
     "description": "纯C#下实现Vue，非常节能高效，特别针对Unity深度优化设计",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "langchain-ai/langchain",
@@ -2987,7 +2987,7 @@
       "rag"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "laurent22/joplin",
@@ -3028,7 +3028,7 @@
       "webdav"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "likeflyme/cloudbak",
@@ -3047,7 +3047,7 @@
       "wechat-backup"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "linshenkx/prompt-optimizer",
@@ -3078,7 +3078,7 @@
       "prompt-tuning"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "liou666/polyglot",
@@ -3105,7 +3105,7 @@
       "tts"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "liyingsong99/AIBridge",
@@ -3118,7 +3118,7 @@
     "description": "A file-based Unity automation bridge for AI coding assistants, providing stable, MCP-free commands for logs, asset and prefab operations, project compilation, scene editing, and screenshot/GIF capture.",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "lobehub/lobehub",
@@ -3153,7 +3153,7 @@
       "openai"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "longyunfeigu/learn-hermes-agent",
@@ -3184,7 +3184,7 @@
       "self-improving-ai"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "lvzhenbo/115-plus-desktop",
@@ -3217,7 +3217,7 @@
       "vuejs"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "michidk/Unity-Script-Collection",
@@ -3259,7 +3259,7 @@
       "unity3d-script"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "microsoft/markitdown",
@@ -3288,7 +3288,7 @@
       "pdf"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "microsoft/semantic-kernel",
@@ -3313,7 +3313,7 @@
       "sdk"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "mindfold-ai/Trellis",
@@ -3338,7 +3338,7 @@
       "harness"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
   },
   {
     "full_name": "mob-sakai/ParticleEffectForUGUI",
@@ -3369,7 +3369,20 @@
       "unity3d"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:06Z"
+  },
+  {
+    "full_name": "morapelker/hive",
+    "url": "https://github.com/morapelker/hive",
+    "source": "starred",
+    "category": "AI / Agent 智能体",
+    "summary": "AI 编码智能体与 Git Worktree 并行管理器",
+    "tags": [],
+    "notes": "",
+    "description": "Project/Worktree manager, deeply integrated with AI agents to increase productivity and multitask efficiently",
+    "topics": [],
+    "language": "TypeScript",
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "mpflutter/mpflutter",
@@ -3388,7 +3401,7 @@
       "flutter"
     ],
     "language": "Dart",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "noopstudios/interactive-feedback-mcp",
@@ -3401,7 +3414,7 @@
     "description": "Interactive User Feedback MCP",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "openclaw/acpx",
@@ -3418,7 +3431,7 @@
       "agentclientprotocol"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "oraios/serena",
@@ -3453,7 +3466,7 @@
       "vibe-coding"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "pallets/flask",
@@ -3482,7 +3495,7 @@
       "wsgi"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "pocketbase/pocketbase",
@@ -3505,7 +3518,7 @@
       "realtime"
     ],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "pot-app/pot-desktop",
@@ -3539,7 +3552,7 @@
       "windows"
     ],
     "language": "JavaScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
@@ -3578,7 +3591,7 @@
       "transformers"
     ],
     "language": "Jupyter Notebook",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "ruanyf/weekly",
@@ -3591,7 +3604,7 @@
     "description": "科技爱好者周刊，每周五发布",
     "topics": [],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "sansan0/TrendRadar",
@@ -3630,7 +3643,7 @@
       "wework"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "saturndec/waoowaoo",
@@ -3661,7 +3674,7 @@
       "video-generation"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "ssloy/tinyrenderer",
@@ -3704,7 +3717,7 @@
       "tutorial"
     ],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "stablyai/orca",
@@ -3738,7 +3751,7 @@
       "worktrees"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "starship/starship",
@@ -3773,7 +3786,7 @@
       "zsh-theme"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "tangshimin/MuJing",
@@ -3796,7 +3809,7 @@
       "kotlin-multiplatform"
     ],
     "language": "Kotlin",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "tauri-apps/tauri",
@@ -3825,7 +3838,7 @@
       "webview"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "toeverything/AFFiNE",
@@ -3866,7 +3879,7 @@
       "workspace"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "tuyoogame/YooAsset",
@@ -3879,7 +3892,7 @@
     "description": "unity3d resources management  system",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "tw93/Pake",
@@ -3915,7 +3928,7 @@
       "youtube"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "ultraworkers/claw-code",
@@ -3928,7 +3941,7 @@
     "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
     "topics": [],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "uluckyXH/OpenMOSS",
@@ -3941,7 +3954,7 @@
     "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "unclecode/crawl4ai",
@@ -3954,7 +3967,7 @@
     "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "vovgou/loxodon-framework",
@@ -3975,7 +3988,7 @@
       "unity-mvvm"
     ],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "wavetermdev/waveterm",
@@ -4006,7 +4019,7 @@
       "windows"
     ],
     "language": "Go",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "wbh604/UZI-Skill",
@@ -4019,7 +4032,7 @@
     "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股",
     "topics": [],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "windmill-labs/windmill",
@@ -4048,7 +4061,7 @@
       "typescript"
     ],
     "language": "HTML",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "x-cmd/x-cmd",
@@ -4077,7 +4090,7 @@
       "zsh"
     ],
     "language": "Awk",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -4120,7 +4133,7 @@
       "windsurf-ai"
     ],
     "language": "",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "xpipe-io/xpipe",
@@ -4159,7 +4172,7 @@
       "wsl"
     ],
     "language": "Java",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "yamadashy/repomix",
@@ -4202,7 +4215,7 @@
       "typescript"
     ],
     "language": "TypeScript",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "yasirkula/UnityNativeGallery",
@@ -4215,7 +4228,7 @@
     "description": "A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)",
     "topics": [],
     "language": "Objective-C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "yasirkula/UnityRuntimeInspector",
@@ -4228,7 +4241,7 @@
     "description": "Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes",
     "topics": [],
     "language": "C#",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "yimengfan/BDFramework.Core",
@@ -4266,7 +4279,7 @@
       "unity3d-hotfix"
     ],
     "language": "C++",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "yt-dlp/yt-dlp",
@@ -4295,7 +4308,7 @@
       "yt-dlp"
     ],
     "language": "Python",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   },
   {
     "full_name": "zed-industries/zed",
@@ -4318,6 +4331,6 @@
       "zed"
     ],
     "language": "Rust",
-    "synced_at": "2026-04-22T03:56:53Z"
+    "synced_at": "2026-04-23T04:10:10Z"
   }
 ]
