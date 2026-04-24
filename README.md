@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 164 个仓库。
+共收录 165 个仓库。
 
 ## 目录
 
@@ -119,6 +119,7 @@
 - [serena](https://github.com/oraios/serena) 面向编码代理的MCP语义检索与编辑工具包
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
 - [CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) 连接 AI IDE 与腾讯云开发的一键部署 MCP 工具
+- [HaloWebUI](https://github.com/ztx888/HaloWebUI) 汉化增强版 OpenWebUI，支持多模型与计费统计
 
 
 ## Unity
