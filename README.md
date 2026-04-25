@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 165 个仓库。
+共收录 167 个仓库。
 
 ## 目录
 
@@ -77,6 +77,7 @@
 - [quivr](https://github.com/QuivrHQ/quivr) 面向应用集成的可定制化 RAG 框架
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) 用PyTorch从零实现并训练类ChatGPT大模型
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow) 仅100行的轻量级LLM智能体与工作流框架
+- [code-review-graph](https://github.com/tirth8205/code-review-graph) 为 Claude Code 构建代码知识图谱，减少审查上下文
 
 ### 助手/聊天
 
@@ -210,6 +211,7 @@
 - [ET](https://github.com/egametang/ET) Unity3D客户端与C#服务器MMO游戏框架
 - [Prowl](https://github.com/ProwlEngine/Prowl) 开源C# 3D游戏引擎，类Unity并带完整编辑器
 - [loxodon-framework](https://github.com/vovgou/loxodon-framework) Unity 游戏开发的 MVVM 与数据绑定框架
+- [bulletfury](https://github.com/WayfarerGames/bulletfury) Unity 6 的 URP 弹幕射击游戏开发包
 
 
 ## 开发工具
