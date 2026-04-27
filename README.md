@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 167 个仓库。
+共收录 169 个仓库。
 
 ## 目录
 
@@ -118,6 +118,7 @@
 - [codedb](https://github.com/justrach/codedb) 面向AI代理的Zig代码智能服务器与MCP工具集
 - [Pensieve](https://github.com/kingkongshot/Pensieve) 为 AI 代理提供可自增长的项目记忆与决策知识库
 - [serena](https://github.com/oraios/serena) 面向编码代理的MCP语义检索与编辑工具包
+- [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于Agent的全流程AI视频创作平台
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
 - [CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) 连接 AI IDE 与腾讯云开发的一键部署 MCP 工具
 - [HaloWebUI](https://github.com/ztx888/HaloWebUI) 汉化增强版 OpenWebUI，支持多模型与计费统计
@@ -220,6 +221,7 @@
 
 - [OpenCLI](https://github.com/jackwener/OpenCLI) 将网站、桌面应用和本地工具统一封装为CLI
 - [acpx](https://github.com/openclaw/acpx) 面向ACP会话的无头命令行客户端
+- [rtk](https://github.com/rtk-ai/rtk) 减少 LLM 开发命令令牌消耗的 Rust CLI 代理
 - [starship](https://github.com/starship/starship) 适用于任意 Shell 的极简高速可定制提示符
 - [claw-code](https://github.com/ultraworkers/claw-code) 基于 Rust 的 Claw CLI 代理工具公开实现
 - [waveterm](https://github.com/wavetermdev/waveterm) 开源跨平台 AI 终端，支持 SSH 持久会话
