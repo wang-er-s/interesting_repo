@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 169 个仓库。
+共收录 171 个仓库。
 
 ## 目录
 
@@ -194,6 +194,7 @@
 ### Web 框架
 
 - [Blog.Core](https://github.com/anjoy8/Blog.Core) ASP.NET Core企业级RBAC权限后台框架教程
+- [vue-lynx](https://github.com/Huxpro/vue-lynx) 用于构建 Lynx 应用的 Vue 3 自定义渲染器
 - [mpflutter](https://github.com/mpflutter/mpflutter) 基于Flutter构建微信小程序与Web的跨平台框架
 - [flask](https://github.com/pallets/flask) 轻量级 Python Web 应用框架 Flask
 - [pocketbase](https://github.com/pocketbase/pocketbase) 单文件开源实时后端，含认证数据库与管理面板
@@ -305,6 +306,7 @@
 - [so-novel](https://github.com/freeok/so-novel) 网页小说内容提取与导出电子书工具
 - [ai-harness](https://github.com/killop/ai-harness) 用于维护本地知识缓存与刷新脚本的工作区
 - [Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) 《Real-Time Rendering 4th》中文翻译仓库
+- [llm_wiki](https://github.com/nashsu/llm_wiki) 将文档自动构建为可持续更新的个人知识库
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) 用500行C++讲解软件渲染与3D图形学课程
 
 ### 笔记工具
