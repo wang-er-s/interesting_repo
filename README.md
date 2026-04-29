@@ -220,6 +220,7 @@
 
 ### CLI 工具
 
+- [fff](https://github.com/dmtrKovalenko/fff) 面向 AI 与 Neovim 的高速文件搜索工具包
 - [OpenCLI](https://github.com/jackwener/OpenCLI) 将网站、桌面应用和本地工具统一封装为CLI
 - [acpx](https://github.com/openclaw/acpx) 面向ACP会话的无头命令行客户端
 - [rtk](https://github.com/rtk-ai/rtk) 减少 LLM 开发命令令牌消耗的 Rust CLI 代理
@@ -233,7 +234,6 @@
 - [mcp_flutter](https://github.com/Arenukvern/mcp_flutter) 面向 Flutter 与 Dart VM 的动态工具 MCP 服务器
 - [ContextAtlas](https://github.com/codefromkarl/ContextAtlas) 面向AI编程代理的代码检索与项目记忆基础设施
 - [one-person-company](https://github.com/cyfyifanchen/one-person-company) 一人公司AI工具导航，精选模型与效率工具
-- [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向AI代理与Neovim的高速文件搜索工具
 - [BiliNote](https://github.com/JefferyHcool/BiliNote) AI视频笔记工具，自动生成结构化Markdown笔记
 - [code-review-skill](https://github.com/killop/code-review-skill) 面向通用工程的自动化代码审查与作者追溯技能
 - [interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) 支持人机交互反馈的 MCP 服务器
