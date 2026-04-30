@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 171 个仓库。
+共收录 173 个仓库。
 
 ## 目录
 
@@ -52,6 +52,7 @@
 
 ### Agent 智能体
 
+- [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) 用提示词生成2D像素精灵表、地图与GIF的智能体技能
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 面向 Claude Code 等的智能体优化与安全系统
 - [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw) 为 OpenClaw 提供持久记忆插件与配套技能
@@ -60,6 +61,7 @@
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
+- [CodeStable](https://github.com/liuzhengdongfortest/CodeStable) 面向严肃工程的人在环 AI 编码工作流
 - [lobehub](https://github.com/lobehub/lobehub) 多智能体协作与AI代理团队构建平台
 - [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
