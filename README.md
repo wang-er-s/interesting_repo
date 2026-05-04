@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 173 个仓库。
+共收录 174 个仓库。
 
 ## 目录
 
@@ -119,6 +119,7 @@
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向AI编程助手的规范驱动开发框架
 - [codedb](https://github.com/justrach/codedb) 面向AI代理的Zig代码智能服务器与MCP工具集
 - [Pensieve](https://github.com/kingkongshot/Pensieve) 为 AI 代理提供可自增长的项目记忆与决策知识库
+- [cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge) 通过MCP将AI助手接入Cheat Engine做内存分析
 - [serena](https://github.com/oraios/serena) 面向编码代理的MCP语义检索与编辑工具包
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于Agent的全流程AI视频创作平台
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
