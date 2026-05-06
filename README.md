@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 174 个仓库。
+共收录 175 个仓库。
 
 ## 目录
 
@@ -70,6 +70,7 @@
 - [hive](https://github.com/morapelker/hive) AI 编码智能体与 Git Worktree 并行管理器
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
+- [Locus](https://github.com/r1n7aro/Locus) 面向 Unity 项目的开源 AI 开发智能体
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
 - [UZI-Skill](https://github.com/wbh604/UZI-Skill) 面向多市场股票深度分析的AI投资技能
 
