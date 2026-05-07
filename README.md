@@ -110,7 +110,6 @@
 ### 视频/字幕
 
 - [VideoLingo](https://github.com/Huanshere/VideoLingo) 一键自动完成视频字幕翻译对齐与配音
-- [waoowaoo](https://github.com/saturndec/waoowaoo) 工业级AI影视生产平台，支持剧本到分镜成片
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于LLM的视频字幕生成翻译与烧录工具
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 本地AI去除视频硬字幕与图片文字水印工具
 
@@ -125,6 +124,7 @@
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于Agent的全流程AI视频创作平台
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
 - [CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) 连接 AI IDE 与腾讯云开发的一键部署 MCP 工具
+- [waoowaoo](https://github.com/waooAI/waoowaoo) 工业级AI影视制作与分镜视频生成平台
 - [HaloWebUI](https://github.com/ztx888/HaloWebUI) 汉化增强版 OpenWebUI，支持多模型与计费统计
 
 
