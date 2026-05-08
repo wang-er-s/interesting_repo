@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 175 个仓库。
+共收录 178 个仓库。
 
 ## 目录
 
@@ -59,6 +59,7 @@
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
+- [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) 为 AI 智能体提供持久化共享记忆服务
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
 - [CodeStable](https://github.com/liuzhengdongfortest/CodeStable) 面向严肃工程的人在环 AI 编码工作流
@@ -68,7 +69,9 @@
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
 - [Trellis](https://github.com/mindfold-ai/Trellis) 多平台 AI 编码智能体工作流与任务框架
 - [hive](https://github.com/morapelker/hive) AI 编码智能体与 Git Worktree 并行管理器
+- [multica](https://github.com/multica-ai/multica) 开源托管式编码智能体协作平台
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) Nous 的自学习多平台 AI 智能体框架
+- [openagents](https://github.com/openagents-org/openagents) 开源多智能体协作工作区与管理平台
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
 - [Locus](https://github.com/r1n7aro/Locus) 面向 Unity 项目的开源 AI 开发智能体
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
