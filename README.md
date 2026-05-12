@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 178 个仓库。
+共收录 181 个仓库。
 
 ## 目录
 
@@ -54,6 +54,7 @@
 
 - [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) 用提示词生成2D像素精灵表、地图与GIF的智能体技能
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
+- [agent-teams-ai](https://github.com/777genius/agent-teams-ai) 多智能体团队协作与任务编排桌面应用
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 面向 Claude Code 等的智能体优化与安全系统
 - [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw) 为 OpenClaw 提供持久记忆插件与配套技能
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
@@ -106,6 +107,7 @@
 - [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) 中文AI与大模型入门指南，含教程、演示与实战
 - [minimind](https://github.com/jingyaogong/minimind) 从零训练小参数GPT的极简LLM教程与链路
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 多端可用的AI提示词优化与评估工具
+- [skills](https://github.com/mattpocock/skills) 面向编程智能体的工程技能与提示词集合
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt) 精选惊艳AI提示词合集，覆盖创作营销学习等场景
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5) 收录 AI 编码提示词与工作流协议集合
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 收录多款AI工具系统提示词与内部模型资料
@@ -209,6 +211,7 @@
 
 ### 桌面框架
 
+- [codex-plusplus](https://github.com/b-nnett/codex-plusplus) 为 Codex 桌面版注入插件与界面增强系统
 - [UniGetUI](https://github.com/Devolutions/UniGetUI) Windows 多包管理器的统一图形管理界面
 - [electron-egg](https://github.com/dromara/electron-egg) 跨平台企业级 Electron 桌面开发框架
 - [tauri](https://github.com/tauri-apps/tauri) 用 Rust 和 Web 前端构建桌面与移动应用框架
