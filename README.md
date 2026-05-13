@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 181 个仓库。
+共收录 182 个仓库。
 
 ## 目录
 
@@ -75,6 +75,7 @@
 - [openagents](https://github.com/openagents-org/openagents) 开源多智能体协作工作区与管理平台
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为 AI Agent 提供多平台联网搜索与阅读的 CLI 工具
 - [Locus](https://github.com/r1n7aro/Locus) 面向 Unity 项目的开源 AI 开发智能体
+- [Kimi-CLI-X](https://github.com/Sikao-Engine/Kimi-CLI-X) 面向多模型 API 的智能体命令行增强工具
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
 - [UZI-Skill](https://github.com/wbh604/UZI-Skill) 面向多市场股票深度分析的AI投资技能
 
