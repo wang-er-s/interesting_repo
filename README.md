@@ -104,11 +104,11 @@
 
 - [happy-llm](https://github.com/datawhalechina/happy-llm) 从零讲解并实战构建大语言模型的中文教程
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) 吴恩达大模型课程中文版开发者入门教程
-- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 提升 Claude Code 行为的提示词规则文件
 - [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) 中文AI与大模型入门指南，含教程、演示与实战
 - [minimind](https://github.com/jingyaogong/minimind) 从零训练小参数GPT的极简LLM教程与链路
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 多端可用的AI提示词优化与评估工具
 - [skills](https://github.com/mattpocock/skills) 面向编程智能体的工程技能与提示词集合
+- [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 提升 Claude Code 编码行为的规则文件
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt) 精选惊艳AI提示词合集，覆盖创作营销学习等场景
 - [RIPER-5](https://github.com/NeekChaw/RIPER-5) 收录 AI 编码提示词与工作流协议集合
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 收录多款AI工具系统提示词与内部模型资料
