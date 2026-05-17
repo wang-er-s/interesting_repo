@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 182 个仓库。
+共收录 187 个仓库。
 
 ## 目录
 
@@ -62,6 +62,7 @@
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
 - [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) 为 AI 智能体提供持久化共享记忆服务
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
+- [BitFun](https://github.com/GCWing/BitFun) 桌面级智能体运行时与多 Agent 应用套件
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
 - [CodeStable](https://github.com/liuzhengdongfortest/CodeStable) 面向严肃工程的人在环 AI 编码工作流
 - [lobehub](https://github.com/lobehub/lobehub) 多智能体协作与AI代理团队构建平台
@@ -106,6 +107,7 @@
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) 吴恩达大模型课程中文版开发者入门教程
 - [AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) 中文AI与大模型入门指南，含教程、演示与实战
 - [minimind](https://github.com/jingyaogong/minimind) 从零训练小参数GPT的极简LLM教程与链路
+- [ljg-skills](https://github.com/lijigang/ljg-skills) Claude Code 自定义技能集，含学习写作与卡片生成
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 多端可用的AI提示词优化与评估工具
 - [skills](https://github.com/mattpocock/skills) 面向编程智能体的工程技能与提示词集合
 - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 提升 Claude Code 编码行为的规则文件
@@ -125,7 +127,9 @@
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向AI编程助手的规范驱动开发框架
 - [codedb](https://github.com/justrach/codedb) 面向AI代理的Zig代码智能服务器与MCP工具集
 - [Pensieve](https://github.com/kingkongshot/Pensieve) 为 AI 代理提供可自增长的项目记忆与决策知识库
+- [JadeAI](https://github.com/LingyiChen-AI/JadeAI) 开源 AI 智能简历生成与优化平台
 - [cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge) 通过MCP将AI助手接入Cheat Engine做内存分析
+- [open-design](https://github.com/nexu-io/open-design) 本地优先的开源 AI 设计与原型生成平台
 - [serena](https://github.com/oraios/serena) 面向编码代理的MCP语义检索与编辑工具包
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于Agent的全流程AI视频创作平台
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) 增强Claude Code的结构化开发配置框架
@@ -164,6 +168,7 @@
 - [hybridclr](https://github.com/focus-creative-games/hybridclr) Unity全平台原生C#热更新解决方案
 - [UnityVue](https://github.com/labbbirder/UnityVue) 为Unity打造的纯C#版Vue响应式框架
 - [YIUI](https://github.com/LiShengYang-yiyi/YIUI) 基于数据绑定的Unity UGUI界面框架，ET官方推荐
+- [unity-ui-document-design-system](https://github.com/sinanata/unity-ui-document-design-system) Unity 6 UI Toolkit 的可复用设计系统
 - [XHFrameworkSkill](https://github.com/XH-Unity/XHFrameworkSkill) Unity可视化技能编辑器与GAS技能框架
 - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) 面向Unity3D的商业级游戏开发工作流框架
 
