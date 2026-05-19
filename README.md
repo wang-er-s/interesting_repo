@@ -55,7 +55,7 @@
 - [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) 用提示词生成2D像素精灵表、地图与GIF的智能体技能
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) 开源企业级智能体与RAG知识库平台
 - [agent-teams-ai](https://github.com/777genius/agent-teams-ai) 多智能体团队协作与任务编排桌面应用
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 面向 Claude Code 等的智能体优化与安全系统
+- [ECC](https://github.com/affaan-m/ECC) 面向 Claude Code 等的 AI 智能体优化系统
 - [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw) 为 OpenClaw 提供持久记忆插件与配套技能
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
