@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 187 个仓库。
+共收录 190 个仓库。
 
 ## 目录
 
@@ -100,6 +100,7 @@
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) Stable Diffusion 的多功能 Web 图像生成界面
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) 单图驱动的实时换脸与视频深度伪造工具
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) Nano Banana图像案例精选与数据集汇总
+- [ProductFlow](https://github.com/yuqie6/ProductFlow) 自托管AI商品素材与生图工作台
 
 ### 学习与提示词
 
@@ -123,6 +124,7 @@
 
 ### 集成/平台
 
+- [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向AI创作的开源无限画布工作台
 - [cc-connect](https://github.com/chenhg5/cc-connect) 将本地AI编程代理接入多种聊天平台的桥接工具
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向AI编程助手的规范驱动开发框架
 - [codedb](https://github.com/justrach/codedb) 面向AI代理的Zig代码智能服务器与MCP工具集
@@ -252,6 +254,7 @@
 - [one-person-company](https://github.com/cyfyifanchen/one-person-company) 一人公司AI工具导航，精选模型与效率工具
 - [BiliNote](https://github.com/JefferyHcool/BiliNote) AI视频笔记工具，自动生成结构化Markdown笔记
 - [code-review-skill](https://github.com/killop/code-review-skill) 面向通用工程的自动化代码审查与作者追溯技能
+- [semble](https://github.com/MinishLab/semble) 面向智能体的高速低耗代码搜索工具
 - [interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) 支持人机交互反馈的 MCP 服务器
 - [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) 将 Claude、Codex 等 AI 代理接入 Obsidian
 - [crawl4ai](https://github.com/unclecode/crawl4ai) 面向LLM的数据抓取与网页爬虫框架
