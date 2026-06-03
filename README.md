@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 189 个仓库。
+共收录 197 个仓库。
 
 ## 目录
 
@@ -60,6 +60,7 @@
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
+- [pi](https://github.com/earendil-works/pi) AI智能体工具链，提供编码CLI与统一LLM接口
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
 - [BitFun](https://github.com/GCWing/BitFun) 桌面级智能体运行时与多 Agent 应用套件
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
@@ -68,6 +69,7 @@
 - [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
+- [pi-goal](https://github.com/Michaelliv/pi-goal) 为 Pi 智能体提供可持久化的自主目标执行扩展
 - [Trellis](https://github.com/mindfold-ai/Trellis) 多平台 AI 编码智能体工作流与任务框架
 - [hive](https://github.com/morapelker/hive) AI 编码智能体与 Git Worktree 并行管理器
 - [multica](https://github.com/multica-ai/multica) 开源托管式编码智能体协作平台
@@ -78,6 +80,7 @@
 - [Kimi-CLI-X](https://github.com/Sikao-Engine/Kimi-CLI-X) 面向多模型 API 的智能体命令行增强工具
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
 - [UZI-Skill](https://github.com/wbh604/UZI-Skill) 面向多市场股票深度分析的AI投资技能
+- [Image-To-UI](https://github.com/XuToWei/Image-To-UI) 将游戏UI效果图和切图转换为结构化JSON的Codex技能
 
 ### LLM 开发框架
 
@@ -218,6 +221,7 @@
 
 ### 桌面框架
 
+- [MewUI](https://github.com/aprillz/MewUI) 面向NativeAOT的跨平台轻量级.NET桌面GUI框架
 - [codex-plusplus](https://github.com/b-nnett/codex-plusplus) 为 Codex 桌面版注入插件与界面增强系统
 - [UniGetUI](https://github.com/Devolutions/UniGetUI) Windows 多包管理器的统一图形管理界面
 - [electron-egg](https://github.com/dromara/electron-egg) 跨平台企业级 Electron 桌面开发框架
@@ -253,9 +257,11 @@
 - [one-person-company](https://github.com/cyfyifanchen/one-person-company) 一人公司AI工具导航，精选模型与效率工具
 - [BiliNote](https://github.com/JefferyHcool/BiliNote) AI视频笔记工具，自动生成结构化Markdown笔记
 - [code-review-skill](https://github.com/killop/code-review-skill) 面向通用工程的自动化代码审查与作者追溯技能
+- [codedb-mcp](https://github.com/killop/codedb-mcp) 面向MCP的本地代码数据库与高速仓库检索工具
 - [semble](https://github.com/MinishLab/semble) 面向智能体的高速低耗代码搜索工具
 - [interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) 支持人机交互反馈的 MCP 服务器
 - [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) 将 Claude、Codex 等 AI 代理接入 Obsidian
+- [AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab) 基于大模型的 GitLab 自动代码审查与日报工具
 - [crawl4ai](https://github.com/unclecode/crawl4ai) 面向LLM的数据抓取与网页爬虫框架
 - [repomix](https://github.com/yamadashy/repomix) 将整个代码仓库打包为适合AI处理的单文件工具
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) 轻量级多模态文档解析与OCR模型
@@ -311,8 +317,10 @@
 ### 课程资源
 
 - [Blog](https://github.com/15172658790/Blog) 中国科大计算机学院课程资料与试卷汇总
+- [workflow-cookbook](https://github.com/AGI-is-going-to-arrive/workflow-cookbook) Claude Code 多智能体动态工作流实战配方手册
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 从零重建各类技术的编程学习教程合集
 - [codelabs](https://github.com/flutter/codelabs) Flutter 官方示例教程代码合集仓库
+- [awesome-architecture](https://github.com/study8677/awesome-architecture) 中英文双语的软件架构图谱与系统设计教程合集
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 汇总小初高及大学PDF教材的开源资源库
 
 
