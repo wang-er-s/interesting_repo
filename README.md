@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 198 个仓库。
+共收录 199 个仓库。
 
 ## 目录
 
@@ -58,6 +58,7 @@
 - [ECC](https://github.com/affaan-m/ECC) 面向 Claude Code 等的 AI 智能体优化系统
 - [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw) 为 OpenClaw 提供持久记忆插件与配套技能
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 用于持续评估、优化并回滚Agent技能的系统
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) 基于任意大模型的自主深度研究智能体
 - [openclaw.net](https://github.com/clawdotnet/openclaw.net) 基于.NET的自托管AI代理网关与运行时
 - [PromptX](https://github.com/Deepractice/PromptX) 基于MCP的AI智能体上下文与专家角色平台
 - [pi](https://github.com/earendil-works/pi) AI智能体工具链，提供编码CLI与统一LLM接口
