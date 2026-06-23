@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 200 个仓库。
+共收录 199 个仓库。
 
 ## 目录
 
@@ -82,7 +82,6 @@
 - [cua](https://github.com/trycua/cua) 面向电脑操作智能体的开源沙箱、SDK与评测基建
 - [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) 面向 OpenClaw 的多智能体自治协作平台
 - [UZI-Skill](https://github.com/wbh604/UZI-Skill) 面向多市场股票深度分析的AI投资技能
-- [FreeUltraCode](https://github.com/wellingfeng/FreeUltraCode) 面向游戏开发的 AI 编码与资产生成智能体
 - [Image-To-UI](https://github.com/XuToWei/Image-To-UI) 将游戏UI效果图和切图转换为结构化JSON的Codex技能
 
 ### LLM 开发框架
