@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 199 个仓库。
+共收录 198 个仓库。
 
 ## 目录
 
@@ -311,7 +311,6 @@
 
 ### 语言学习
 
-- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 系统化的英语进阶学习指南与方法教程
 - [polyglot](https://github.com/liou666/polyglot) 基于ChatGPT和Azure的跨平台AI口语练习应用
 - [BabelDuck](https://github.com/Orenoid/BabelDuck) 面向初学者的AI语言对话练习应用
 - [MuJing](https://github.com/tangshimin/MuJing) 通过影视和文档语境学习英语单词的应用
