@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 198 个仓库。
+共收录 197 个仓库。
 
 ## 目录
 
@@ -353,7 +353,6 @@
 ## 资源合集
 
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣且适合入门的开源项目月刊
-- [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) GitHub中文项目排行榜，按语言分类推荐优质软件与资料
 - [Best-App](https://github.com/hzlzh/Best-App) 收集推荐优秀应用、硬件与生活周边清单
 - [Nino](https://github.com/JasonXuDeveloper/Nino) 面向C#与Unity的高性能二进制序列化库
 - [anything_about_game](https://github.com/killop/anything_about_game) 精选游戏开发资源清单，涵盖引擎工具与图形技术
