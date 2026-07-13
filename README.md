@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 197 个仓库。
+共收录 196 个仓库。
 
 ## 目录
 
@@ -174,7 +174,6 @@
 - [hybridclr](https://github.com/focus-creative-games/hybridclr) Unity全平台原生C#热更新解决方案
 - [UnityVue](https://github.com/labbbirder/UnityVue) 为Unity打造的纯C#版Vue响应式框架
 - [YIUI](https://github.com/LiShengYang-yiyi/YIUI) 基于数据绑定的Unity UGUI界面框架，ET官方推荐
-- [unity-ui-document-design-system](https://github.com/sinanata/unity-ui-document-design-system) Unity 6 UI Toolkit 的可复用设计系统
 - [XHFrameworkSkill](https://github.com/XH-Unity/XHFrameworkSkill) Unity可视化技能编辑器与GAS技能框架
 - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) 面向Unity3D的商业级游戏开发工作流框架
 
