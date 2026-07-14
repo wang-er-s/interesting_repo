@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 196 个仓库。
+共收录 195 个仓库。
 
 ## 目录
 
@@ -65,7 +65,6 @@
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化搭建与编排 AI 智能体的低代码平台
 - [BitFun](https://github.com/GCWing/BitFun) 桌面级智能体运行时与多 Agent 应用套件
 - [AionUi](https://github.com/iOfficeAI/AionUi) 本地开源AI协作平台，集成多种智能代理
-- [CodeStable](https://github.com/liuzhengdongfortest/CodeStable) 面向严肃工程的人在环 AI 编码工作流
 - [lobehub](https://github.com/lobehub/lobehub) 多智能体协作与AI代理团队构建平台
 - [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
