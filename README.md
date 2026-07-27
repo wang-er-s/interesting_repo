@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 194 个仓库。
+共收录 193 个仓库。
 
 ## 目录
 
@@ -293,7 +293,6 @@
 ### 通讯工具
 
 - [HuLa](https://github.com/HuLaSpark/HuLa) 基于Rust与Vue3的跨平台即时通讯应用
-- [Lucky-client](https://github.com/LucklySpace/Lucky-client) 基于Tauri和Vue3的跨平台即时通讯客户端
 
 
 ## 教育学习
