@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 193 个仓库。
+共收录 192 个仓库。
 
 ## 目录
 
@@ -156,7 +156,6 @@
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) Unity 的 AI 开发助手与 MCP 工具链
 - [ReflectionTool](https://github.com/kuronekoyang/ReflectionTool) Unity 的 C# 反射包装生成与方法钩子工具
 - [AIBridge](https://github.com/liyingsong99/AIBridge) 面向 AI 助手的 Unity 自动化桥接插件
-- [HTML-to-UGUI-Baker](https://github.com/StarrDream/HTML-to-UGUI-Baker) 将AI生成HTML原型自动烘焙为Unity UGUI界面
 - [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick) UnityEditor工具链开发技巧与示例合集
 
 ### 插件
