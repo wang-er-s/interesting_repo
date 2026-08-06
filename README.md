@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 192 个仓库。
+共收录 191 个仓库。
 
 ## 目录
 
@@ -116,7 +116,6 @@
 - [skills](https://github.com/mattpocock/skills) 面向编程智能体的工程技能与提示词集合
 - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 提升 Claude Code 编码行为的规则文件
 - [awesome-prompt](https://github.com/NeekChaw/awesome-prompt) 精选惊艳AI提示词合集，覆盖创作营销学习等场景
-- [RIPER-5](https://github.com/NeekChaw/RIPER-5) 收录 AI 编码提示词与工作流协议集合
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 收录多款AI工具系统提示词与内部模型资料
 
 ### 视频/字幕
