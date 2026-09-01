@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 191 个仓库。
+共收录 190 个仓库。
 
 ## 目录
 
@@ -86,7 +86,6 @@
 ### LLM 开发框架
 
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel) 微软的企业级 LLM 编排 SDK，用于构建智能代理
-- [quivr](https://github.com/QuivrHQ/quivr) 面向应用集成的可定制化 RAG 框架
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) 用PyTorch从零实现并训练类ChatGPT大模型
 - [PocketFlow](https://github.com/The-Pocket/PocketFlow) 仅100行的轻量级LLM智能体与工作流框架
 - [code-review-graph](https://github.com/tirth8205/code-review-graph) 为 Claude Code 构建代码知识图谱，减少审查上下文
