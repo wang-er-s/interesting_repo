@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 189 个仓库。
+共收录 188 个仓库。
 
 ## 目录
 
@@ -314,7 +314,6 @@
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 从零重建各类技术的编程学习教程合集
 - [codelabs](https://github.com/flutter/codelabs) Flutter 官方示例教程代码合集仓库
 - [awesome-architecture](https://github.com/study8677/awesome-architecture) 中英文双语的软件架构图谱与系统设计教程合集
-- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 汇总小初高及大学PDF教材的开源资源库
 
 
 ## 知识管理
