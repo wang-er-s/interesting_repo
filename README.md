@@ -1,6 +1,6 @@
 # GitHub 仓库收藏索引
 
-共收录 187 个仓库。
+共收录 185 个仓库。
 
 ## 目录
 
@@ -67,7 +67,6 @@
 - [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) 从零构建自主AI智能体的27章Python实战教程
 - [mempalace](https://github.com/MemPalace/mempalace) 本地优先的开源 AI 记忆系统，支持语义检索
 - [skills-vote](https://github.com/MemTensor/skills-vote) 面向智能体的技能推荐与评估引擎
-- [pi-goal](https://github.com/Michaelliv/pi-goal) 为 Pi 智能体提供可持久化的自主目标执行扩展
 - [Trellis](https://github.com/mindfold-ai/Trellis) 多平台 AI 编码智能体工作流与任务框架
 - [hive](https://github.com/morapelker/hive) AI 编码智能体与 Git Worktree 并行管理器
 - [multica](https://github.com/multica-ai/multica) 开源托管式编码智能体协作平台
@@ -251,7 +250,6 @@
 - [one-person-company](https://github.com/cyfyifanchen/one-person-company) 一人公司AI工具导航，精选模型与效率工具
 - [BiliNote](https://github.com/JefferyHcool/BiliNote) AI视频笔记工具，自动生成结构化Markdown笔记
 - [code-review-skill](https://github.com/killop/code-review-skill) 面向通用工程的自动化代码审查与作者追溯技能
-- [codedb-mcp](https://github.com/killop/codedb-mcp) 面向MCP的本地代码数据库与高速仓库检索工具
 - [semble](https://github.com/MinishLab/semble) 面向智能体的高速低耗代码搜索工具
 - [interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) 支持人机交互反馈的 MCP 服务器
 - [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) 将 Claude、Codex 等 AI 代理接入 Obsidian
